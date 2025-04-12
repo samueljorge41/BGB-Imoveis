@@ -1,0 +1,198 @@
+#sobre-banner {
+    background: linear-gradient(to bottom, rgba(94, 111, 92, 1), rgba(94, 111, 92, 1));
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    padding: 100px 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    animation: fadeInBackground 2s ease-in-out;
+}
+
+@keyframes fadeInBackground {
+    from {
+        opacity: 0;
+        background-size: 120%;
+    }
+    to {
+        opacity: 1;
+        background-size: cover;
+    }
+}
+
+#sobre-banner h1 {
+    font-size: 3rem;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+#sobre-banner p {
+    font-size: 1.5rem;
+    max-width: 800px;
+    line-height: 1.8;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+    animation: fadeIn 1.5s ease-in-out;
+    color: white;
+}
+
+#sobre-missao {
+    padding: 50px 20px;
+    background: #f8f9fa;
+    border-top: 5px solid #5e6f5c;
+    border-bottom: 5px solid #5e6f5c;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+#sobre-missao h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #5e6f5c;
+    animation: slideInFromLeft 1.5s ease-in-out;
+}
+
+#sobre-missao p, #sobre-missao ul {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #333;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+#sobre-missao ul {
+    list-style: none;
+    padding: 0;
+}
+
+#sobre-missao ul li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center; /* Alinha o ícone com o texto */
+    justify-content: center; /* Centraliza o conteúdo */
+    gap: 10px; /* Espaço entre o ícone e o texto */
+    text-align: center; /* Centraliza o texto */
+}
+
+#sobre-missao ul li::before {
+    content: "✔";
+    color: #5e6f5c;
+    font-weight: bold;
+    font-size: 1.2rem; /* Ajusta o tamanho do ícone */
+}
+
+#sobre-equipe {
+    padding: 50px 20px;
+    background: linear-gradient(to bottom, #ffffff, #f1f1f1);
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+#sobre-equipe .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: #ffffff;
+    border-top: 5px solid #5e6f5c;
+    animation: slideInFromBottom 1.5s ease-in-out;
+}
+
+#sobre-equipe .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+#sobre-equipe .card-img-top {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0 auto 15px;
+    border: 3px solid #5e6f5c;
+}
+
+#sobre-equipe .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #5e6f5c;
+    margin-bottom: 10px;
+}
+
+#sobre-equipe .card-text {
+    font-size: 1rem;
+    color: #555;
+}
+
+#sobre-equipe .card:hover .card-title {
+    color: #3c4d3a;
+}
+
+.separator {
+    width: 100px;
+    height: 4px;
+    background: #5e6f5c;
+    margin: 20px auto;
+    border-radius: 2px;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.fade-in {
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInFromLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInFromBottom {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.scroll-reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s ease, transform 1s ease;
+}
+
+.scroll-reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+}

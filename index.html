@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BGB Imoveis</title>
+    <link rel="stylesheet" href="assets/css/style.css">  
+    <link rel="stylesheet" href="assets/css/filtro-imoveis.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+    <div id="aviso-desenvolvimento">
+        <p>Este site está em desenvolvimento.</p>
+        <p>Para uma melhor experiência, acesse pelo celular.</p>
+        <a href="javascript:void(0)">Fechar</a>
+    </div>
+    <div class="scroll-container">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+            <a class="navbar-brand" href="#">
+                <img src="assets/img/logo.webp" alt="Logo" style="height: 40px;">
+            </a>  
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav w-100 justify-content-center text-center d-lg-none">
+                    <li class="nav-item"><a class="nav-link" href="#secao-imoveis">Imóveis</a></li>
+                    <li class="nav-item"><a class="nav-link" href="pages/sobre.html">Sobre Nós</a></li>
+                    <li class="nav-item"><a class="nav-link" href="pages/anuncie.html">Anuncie seu imóvel</a></li>
+                    <li class="nav-item"><a class="nav-link" href="pages/contato.html">Fale Conosco</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Primeira Seção-->
+    <section id="primeira-secao" class="secao" onclick="trocarBackground()">
+    </section>
+
+    <section id="moldura" class="secao">
+        <div class="hero-content">
+            <h1 class="titulo-principal">
+                Seja para morar bem ou investir a BGB Imóveis conecta você às melhores oportunidades.
+            </h1>
+            <div class="filtro-imoveis">
+                <form id="filtro-form">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-floating">
+                                <select id="tipo-imovel" class="form-select">
+                                    <option value="">Selecione</option>
+                                </select>
+                                <label for="tipo-imovel">Tipo de Imóvel</label>
+                            </div>                           
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating position-relative">
+                                <input type="text" id="preco-maximo" class="form-control" placeholder="Preço Máximo">
+                                <label for="preco-maximo">Preço Máximo</label>
+                                <div class="position-absolute" style="top: 50%; right: 10px; transform: translateY(-50%);">
+                                    <button type="button" onclick="ajustarPreco('up')" style="border: none; background: none; cursor: pointer;">▲</button>
+                                    <button type="button" onclick="ajustarPreco('down')" style="border: none; background: none; cursor: pointer;">▼</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 position-relative">
+                            <div class="form-floating">
+                                <input type="text" id="localizacao" class="form-control" placeholder="Bairro, Condomínio ou código" oninput="mostrarSugestoes()" onclick="mostrarSugestoes(true)">
+                                <label for="localizacao">Bairro, Condomínio ou código</label>
+                            </div>
+                            <div id="sugestoes" class="sugestoes-lista"></div>
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12 text-center">
+                            <button id="hero-button" type="button" class="btn btn-primary d-flex align-items-center" onclick="filtrarImoveis()">
+                                Buscar Imóvel
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+<!-- Sessão Imóveis - Segunda Seção -->
+    <section id="secao-imoveis" class="secao">
+        <div id="container-imoveis"> 
+            <h1 id="titulo-imoveis">Imóveis Disponíveis</h1>
+            <div id="lista-imoveis"></div>		
+        </div>    		
+            <!-- Modal para exibir a imagem ampliada -->		
+            <div id="modal" class="modal">		
+                <span class="close">&times;</span>
+                <div class="modal-content">
+                    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner" id="carousel-images">
+                            <!-- As imagens do carrossel serão inseridas dinamicamente aqui -->
+                        </div>
+                        <div class="carousel-indicators">
+                            <!-- As bolinhas serão inseridas dinamicamente aqui -->
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Anterior</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Próximo</span>
+                        </button>
+                    </div>
+                    <div class="modal-description">
+                        <p id="modal-description-text"></p>
+                        <p id="modal-legend-text" class="modal-legend"></p>
+                        <a id="cta-button" href="#" target="_blank" class="btn btn-success">
+                            <img src="assets/img/icon-wpp.png" alt="WhatsApp" style="height: 20px; margin-right: 5px;">
+                            Falar com um consultor
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </section>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-logo">
+                <h2>BGB Imóveis</h2>
+            </div>
+            <div class="footer-contact">
+                <p><strong>Endereço:</strong> Rua Pedro Geraldo, 176 B, Bairro São João - Montes Claros/MG</p>
+                <p><strong>Telefone:</strong> (38) 3214-5678</p>
+                <p><strong>Email:</strong> exemplo@bgbimoveis.com</p>
+            </div>
+            <div class="footer-social">
+                <a href="#" class="social-icon">Facebook</a>
+                <a href="#" class="social-icon">Instagram</a>
+                <a href="#" class="social-icon">WhatsApp</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2025 BGB Imóveis. Todos os direitos reservados.</p>
+            <p>Desenvolvido por <a href="https://www.instagram.com/samueljorge.ads/">Samuel Jorge</a></p>
+        </div>
+    </footer>
+    
+    <script src="/assets/js/script.js"></script>
+    <script src="/assets/js/filtro-imoveis.js"></script>
+
+    </div>
+
+    <script>
+        // Formata o valor como R$ 100.000
+        function formatarMoeda(valor) {
+    const numero = valor.replace(/\D/g, '');
+    const valorFormatado = parseInt(numero || 0).toLocaleString('pt-BR', {
+        style: 'currency',
+        currency: 'BRL',
+        minimumFractionDigits: 0
+    });
+    return valorFormatado;
+}
+
+        
+        // Evento de digitação no campo de preço
+        const inputPreco = document.getElementById('preco-maximo');
+        
+        inputPreco.addEventListener('input', (e) => {
+            const valorDigitado = e.target.value;
+            const cursor = e.target.selectionStart;
+        
+            const valorFormatado = formatarMoeda(valorDigitado);
+            e.target.value = valorFormatado;
+        
+            // Mantém o cursor no final
+            setTimeout(() => {
+                e.target.setSelectionRange(e.target.value.length, e.target.value.length);
+            }, 0);
+        });
+        </script>
+        
+</body>
+</html>

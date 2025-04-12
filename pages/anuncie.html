@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anuncie seu Imóvel - BGB Imóveis</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/anuncie.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="../index.html">
+                <img src="../assets/img/logo.webp" alt="Logo" style="height: 40px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="../index.html#secao-imoveis">Imóveis</a></li>
+                    <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre Nós</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="anuncie.html">Anuncie seu imóvel</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contato.html">Fale Conosco</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Banner -->
+    <section id="anuncie-banner" class="secao">
+        <div class="container text-center">
+            <h1 class="titulo-principal">Anuncie seu Imóvel</h1>
+            <p class="subtexto">
+                Alcance milhares de pessoas interessadas no seu imóvel com a BGB Imóveis.
+            </p>
+            <a href="#anuncie-formulario" class="btn-cta">Anunciar Agora</a>
+        </div>
+    </section>
+
+    <!-- Formulário -->
+    <section id="anuncie-formulario" class="secao">
+        <div class="container">
+            <h2 class="text-center">Preencha o formulário abaixo</h2>
+            <p class="text-center subtexto">
+                Envie os detalhes do seu imóvel e entraremos em contato para ajudar você a anunciá-lo.
+            </p>
+            <form class="row g-3">
+                <div class="col-md-6">
+                    <label for="nome" class="form-label">Nome</label>
+                    <input type="text" class="form-control" id="nome" placeholder="Seu nome completo" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Seu email" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="telefone" class="form-label">Telefone</label>
+                    <input type="tel" class="form-control" id="telefone" placeholder="Seu telefone" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="tipo-imovel" class="form-label">Tipo de Imóvel</label>
+                    <select class="form-select" id="tipo-imovel" required>
+                        <option value="" disabled selected>Selecione</option>
+                        <option value="casa">Casa</option>
+                        <option value="apartamento">Apartamento</option>
+                        <option value="terreno">Terreno</option>
+                        <option value="comercial">Comercial</option>
+                    </select>
+                </div>
+                <div class="col-12">
+                    <label for="descricao" class="form-label">Descrição do Imóvel</label>
+                    <textarea class="form-control" id="descricao" rows="4" placeholder="Descreva os detalhes do imóvel" required></textarea>
+                </div>
+                <div class="col-12">
+                    <label for="fotos" class="form-label">Fotos do Imóvel</label>
+                    <input type="file" class="form-control" id="fotos" multiple>
+                </div>
+                <div class="col-12 text-center">
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-logo">
+                <h2>BGB Imóveis</h2>
+            </div>
+            <div class="footer-contact">
+                <p><strong>Endereço:</strong> Rua Pedro Geraldo, 176 B, Bairro São João - Montes Claros/MG</p>
+                <p><strong>Telefone:</strong> (38) 3214-5678</p>
+                <p><strong>Email:</strong> exemplo@bgbimoveis.com</p>
+            </div>
+            <div class="footer-social">
+                <a href="#" class="social-icon">Facebook</a>
+                <a href="#" class="social-icon">Instagram</a>
+                <a href="#" class="social-icon">WhatsApp</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2025 BGB Imóveis. Todos os direitos reservados.</p>
+            <p>Desenvolvido por <a href="https://www.instagram.com/samueljorge.ads/">Samuel Jorge</a></p>
+        </div>
+    </footer>
+</body>
+</html>

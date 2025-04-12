@@ -1,0 +1,594 @@
+/* Importando fonte para o design */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+html {
+    scroll-behavior: smooth; /* Faz a rolagem entre seções ser suave */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+h3, h6 {
+    all: unset; /* Remove TODOS os estilos padrão */
+    display: block; /* Garante que o elemento continue funcionando corretamente */
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: inherit; /* Mantém o tamanho correto */
+    font-weight: normal; /* Ajusta o peso da fonte, se necessário */
+}
+
+h3 {
+    font-family: 'League Spartan', sans-serif; /* Define a fonte League Spartan */
+    font-size: 1.5rem; /* Tamanho fixo do título */
+    font-weight: bold;
+    margin-top: 0; /* Remove completamente a margem superior para deixar os títulos colados */
+    margin-bottom: 0; /* Remove completamente a margem inferior para deixar os títulos colados */
+    color: #ffffff;
+}
+
+h6 {
+    font-family: 'League Spartan', sans-serif; /* Define a fonte League Spartan */
+    font-size: 1.7rem; /* Tamanho fixo do título */
+    font-weight: bold;
+    margin-top: 0; /* Remove completamente a margem superior para deixar os títulos colados */
+    margin-bottom: 0; /* Remove completamente a margem inferior para deixar os títulos colados */
+    color: #ffffff;
+}
+
+/* Navbar com degradê */
+    .navbar {
+        background: linear-gradient(to bottom, rgba(94, 111, 92, 0.9), rgba(94, 111, 92, 0)); /* Degradê do verde para transparente */
+        padding: 20px 40px; /* Aumenta o espaçamento acima e abaixo */
+        position: fixed;
+        width: 100%;
+        top: 10px; /* Adiciona um leve espaçamento acima */
+        z-index: 1000;
+    }
+
+    .navbar .navbar-brand {
+        font-size: 1.8rem; /* Aumenta o tamanho da fonte */
+        font-family: 'Playfair Display', serif;
+        color: #ffffff;
+        margin-left: 20px;
+    }
+
+    .navbar .navbar-toggler {
+        margin-right: 20px;
+    }
+
+    .navbar .nav-link {
+        color: #ffffff;
+        font-size: 1.2rem; /* Aumenta o tamanho da fonte */
+        transition: 0.3s;
+    }
+
+    .navbar .nav-link:hover {
+        color: var(--primary-color);
+    }
+
+    .collapse {
+        display: none;
+    }
+    
+    .collapse.show {
+        display: block;
+    }
+
+    #sugestoes {
+        max-height: 200px; /* ou o valor que você achar bom */
+        overflow-y: auto;
+        position: absolute; /* ou fixed, dependendo do layout */
+        background: white;
+        z-index: 999;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+body {
+        display: flex;
+	    flex-direction: column; /* Garante que as seções fiquem empilhadas */
+        justify-content: flex-start;
+        color: white;
+        padding-left: 0%;
+    }
+
+body.modal-open {
+    overflow: hidden; /* Impede a rolagem da página principal */
+}
+
+.secao {
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+#primeira-secao {
+	    background: url('../img/BG1.png') no-repeat center center;
+        background-size: cover;
+        display: flex;
+        padding-left: 3%;
+}
+
+#moldura {
+        position: absolute; /* Sobrepõe a moldura na primeira seção */
+        top: 0%; /* Centraliza verticalmente */
+        transform: translateY(-50%); /* Ajusta para o centro vertical exato */
+        width: 30%; /* Garante que ocupe toda a largura */
+        z-index: 1; /* Garante que fique acima do fundo */
+        display: flex; /* Ativa o Flexbox */
+        align-items: center; /* Centraliza os itens verticalmente */
+}
+
+
+.hero-content {
+        max-width: 45%; /* Define a largura máxima como 50% */
+        text-align: left; /* Garante que o conteúdo fique alinhado à esquerda */
+        position: relative; /* Garante que o posicionamento seja relativo */
+}
+
+/* Botão para rolar para baixo */
+    .scroll-down {
+        display: inline-block;
+        margin-top: 20px;
+        font-size: 18px;
+        color: #0ea6dd;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+    .scroll-down:hover {
+        color: #0077aa;
+    }
+
+    h1, .subtexto, .cta {
+        text-align: left; /* Alinhando todo o texto à esquerda */
+    }
+
+    .titulo-principal {
+        font-size: 2.4rem; /* Tamanho fixo do título */
+        font-weight: bold;
+        line-height: 1; /* Controla o espaçamento entre as linhas */
+        margin-top: 30px;
+        font-family: 'League Spartan', sans-serif; /* Define a fonte League Spartan */
+        color: #ffffff;
+    }
+
+    .titulo-principal-sobre {
+        font-size: 2.4rem; /* Tamanho fixo do título */
+        font-weight: bold;
+        line-height: 1; /* Controla o espaçamento entre as linhas */
+        margin-top: 30px;
+        font-family: 'League Spartan', sans-serif; /* Define a fonte League Spartan */
+        color: #000;
+    }
+		
+    .subtexto {
+        font-size: 1.3rem;
+        text-align: left;
+        margin: 50px 0;
+        color: #ffffff;
+    }
+
+    .subtexto-sobre {
+        font-size: 1.3rem;
+        text-align: left;
+        margin: 50px 0;
+        color: #000;
+    }
+
+.sobre-titulo {
+    background-color: #5e6f5c; /* Verde da segunda seção */
+    position: absolute; /* Garante que a tarja ocupe toda a largura da tela */
+    top: 0; /* Posiciona no topo */
+    height: 150px; /* Aumenta a altura da tarja */
+    display: flex; /* Usa flexbox para alinhar o conteúdo */
+    align-items: flex-end; /* Alinha o título na base da tarja */
+    justify-content: center; /* Centraliza o título horizontalmente */
+    left: 0; /* Alinha à esquerda */
+    width: 100vw; /* Largura completa da tela */
+    padding: 10px 0; /* Espaçamento interno para a tarja */
+    text-align: center; /* Centraliza o texto */
+    font-family: 'League Spartan', sans-serif; /* Fonte do título */
+    font-size: 1.8rem; /* Tamanho do texto */
+    font-weight: bold; /* Deixa o texto em negrito */
+    z-index: 1000; /* Garante que fique acima de outros elementos */
+}
+
+
+#hero-button {
+    background: #ffffff;
+    color: rgb(77, 113, 88);
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 50px; /* Aumenta o espaçamento para deixá-lo mais largo */
+    border: none;
+    cursor: pointer;
+    margin-top: 50px;
+    border-radius: 25px; /* Torna as bordas mais arredondadas */
+    display: block; /* Garante que o botão seja tratado como um bloco */
+    margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+#container-imoveis {
+    display: flex;
+    flex-direction: column; /* Garante que o título fique acima dos imóveis */
+    align-items: center; /* Centraliza o conteúdo */
+    width: 100%;
+    text-align: center;
+}
+
+#titulo-imoveis {
+    display: block;
+    width: 100%;
+    font-size: 2em;
+    margin-bottom: 30px; /* Garante espaçamento maior */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 50px;
+    font-weight: bold; /* Deixa o texto em negrito */
+}
+
+#lista-imoveis {
+    display: flex;
+    flex-wrap: wrap; /* Permite quebra para nova linha */
+    justify-content: center; /* Centraliza os imóveis */
+    gap: 20px; /* Espaço entre os imóveis */
+    width: 90%; /* Faz com que a seção dos imóveis ocupe 90% da tela */
+    margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+.card {
+    flex: 1 1 calc(30% - 20px); /* Faz cada card ocupar cerca de 30% da largura, subtraindo o gap */
+    max-width: 350px; /* Define um tamanho máximo para não ficarem gigantes */
+    min-width: 250px; /* Evita que fiquem muito pequenos */
+    position: relative;
+    width: 300px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+
+.card img {
+    height: 300px; /* Aumenta a altura fixa para 200px */
+    width: 100%; /* Garante que a largura ocupe todo o espaço disponível */
+    object-fit: cover; /* Garante que a imagem preencha o espaço sem distorcer */
+    object-position: center; /* Centraliza a imagem */
+}
+
+.logo-overlay {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0.5;  /* Deixa a logo transparente */
+}
+
+.logo-overlay img {
+    width: 100px;
+    height: auto;
+}
+
+.card h2 {
+    font-size: 18px;
+    margin: 10px 0 5px;
+    color: #444;
+}
+
+.card p {
+    font-size: 16px;
+    color: #555;
+}
+
+.btn-detalhes {
+    background-color: transparent;
+    border: 1px solid #5e6f5c;
+    color: #5e6f5c;
+    padding: 2px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.btn-detalhes:hover {
+    background-color: #5e6f5c;
+    color: #fff;
+}
+
+
+/* Estiliza o modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    color: #000;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 90%;
+    max-height: 80%; /* Altura máxima do quadro branco */
+    overflow-y: auto; /* Permite rolagem vertical */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left; /* Alinha todo o conteúdo à esquerda */
+    display: flex;
+    flex-direction: column; /* Organiza os elementos verticalmente */
+    align-items: flex-start; /* Alinha os elementos à esquerda */
+}
+
+.modal-content img {
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do quadro */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-bottom: 15px; /* Espaçamento abaixo da imagem */
+}
+
+.modal-description {
+    width: 100%; /* Garante que o texto ocupe toda a largura */
+    text-align: center; /* Centraliza o conteúdo do quadro branco */
+}
+
+.modal-description p {
+    margin: 10px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: left; /* Alinha os textos à esquerda */
+}
+
+#cta-button {
+    display: flex; /* Garante que o botão seja tratado como um elemento flexível */
+    align-items: center; /* Centraliza verticalmente o conteúdo do botão */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo do botão */
+    background-color: #25d366; /* Cor verde do WhatsApp */
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin: 15px auto; /* Centraliza o botão horizontalmente no quadro branco */
+}
+
+#cta-button:hover {
+    background-color: #1da851; /* Cor mais escura ao passar o mouse */
+}
+
+#cta-button img {
+    height: 20px;
+    margin: 0; /* Remove qualquer margem indesejada */
+    margin-right: 8px; /* Adiciona apenas o espaçamento horizontal necessário */
+    vertical-align: middle; /* Centraliza verticalmente a logo */
+}
+
+.carousel-item img {
+    max-height: 80vh;
+    object-fit: contain;
+}
+
+
+/* Botão de fechar */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #222;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.footer-logo h2 {
+    font-size: 1.8rem;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.footer-contact p {
+    margin: 5px 0;
+    font-size: 1rem;
+}
+
+.footer-social {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icon {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: 0.3s;
+}
+
+.social-icon:hover {
+    color: #0ea6dd;
+}
+
+.footer-bottom {
+    margin-top: 20px;
+    font-size: 0.8rem;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+}
+
+.footer p {
+    margin: 0;
+}
+
+
+
+
+
+/* 📌 Responsividade para mobile */
+@media (max-width: 768px) {
+    body {
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    /* Terceira seção */
+
+    #primeira-secao {
+        background: url('../img/BGM1.png') no-repeat center center;
+        background-size: cover;
+        display: flex;
+        justify-content: center; /* Centraliza no mobile */
+        align-items: center; /* Evita desalinhamento */
+        text-align: center;
+        min-height: 50vh; /* Garante que sempre tenha altura suficiente */
+        padding: 0%;
+    }
+
+    #moldura {
+        position: static; /* Mantém o comportamento padrão no fluxo do layout */
+        transform: translateY(0%); /* Ajusta para o centro vertical exato */
+        min-height: 50vh; /* Garante que sempre tenha altura suficiente */
+        background-color: #5e6f5c;
+        width: 100%; /* Garante que ocupe toda a largura */
+        display: flex; /* Ativa o Flexbox */
+        justify-content: center; /* Centraliza os itens horizontalmente */
+        align-items: center; /* Centraliza os itens verticalmente */
+        text-align: center; /* Centraliza o texto, se houver */
+        padding-left: 2%; /* Adiciona espaçamento à esquerda */
+        padding-right: 2%; /* Adiciona espaçamento à direita */
+    }
+
+    .hero-content {
+        max-width: 95%; /* Define a largura máxima como 95% */
+        text-align: center; /* Centraliza o conteúdo */
+        position: relative; /* Garante que o posicionamento seja relativo */
+    }
+
+    #imoveis {
+        width: 100%; /* Garante que a seção ocupe toda a largura */
+        padding: 0; 
+    }
+
+    .card {
+        flex: 1 1 100%; /* Ocupar toda a largura disponível */
+        max-width: 100%; /* Usa quase toda a tela, deixando só um respiro nas laterais */
+        margin: 10px auto; /* Mantém o alinhamento centralizado */
+        padding: 10px; /* Mantém um leve espaçamento interno */
+    }
+
+    .container {
+        max-width: 100%;
+        align-items: center; /* Alinha os itens ao centro */
+        text-align: center; /* Alinha o texto no mobile */
+    }
+
+    h1, .subtexto, .cta {
+        text-align: center; /* Centraliza os textos */
+    }
+
+    .titulo-principal {
+        font-size: 1.4rem;
+        margin-top: 0px;
+        margin-left: 0px; /* Adiciona espaçamento à esquerda */
+        margin-right: 0px; /* Adiciona espaçamento à direita */
+    }
+
+    #titulo {
+        margin-top: 10px;
+    }
+
+    .subtexto {
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 20px; /* Garante espaçamento maior */
+    }
+
+    button {
+        font-size: 14px;
+    }
+
+    .espacamento-topo {
+        height: 120px; /* Ajuste conforme necessário para o espaçamento desejado */
+    }
+
+}
+
+/* Aviso estilizado para desktop */
+@media (min-width: 1024px) {
+    #aviso-desenvolvimento {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #ffcc00;
+        color: #333;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.5rem;
+        font-weight: bold;
+        z-index: 1000;
+        text-align: center;
+        padding: 20px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    #aviso-desenvolvimento p {
+        margin: 0;
+        padding: 10px 0;
+    }
+
+    #aviso-desenvolvimento a {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 1rem;
+        transition: background-color 0.3s ease;
+    }
+
+    #aviso-desenvolvimento a:hover {
+        background-color: #555;
+    }
+}
+
+@media (max-width: 1023px) {
+    #aviso-desenvolvimento {
+        display: none; /* Esconde o aviso em dispositivos móveis */
+    }
+}

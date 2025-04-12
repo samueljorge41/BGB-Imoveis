@@ -1,0 +1,63 @@
+.filtro-imoveis {
+    margin-top: 15px;
+}
+
+.filtro-imoveis .form-floating {
+    margin-top: 10px;
+}
+
+.filtro-imoveis .form-select, 
+.filtro-imoveis .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 1rem;
+    height: 10px;
+}
+
+.filtro-imoveis .form-select:focus, 
+.filtro-imoveis .form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.filtro-imoveis button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.filtro-imoveis button:hover {
+    background-color: #0056b3;
+}
+
+.sugestoes-lista {
+    position: absolute;
+    top: calc(100% + 2px);
+    left: 50%;
+    transform: translateX(-50%);
+    width: 93%;
+    background-color: white;
+    border: 1px solid #ced4da;
+    border-radius: 0 0 5px 5px;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1000;
+    display: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    -webkit-overflow-scrolling: touch;
+}
+
+.sugestoes-lista div {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    color: #495057;
+}
+
+.sugestoes-lista div:hover {
+    background-color: #f8f9fa;
+}

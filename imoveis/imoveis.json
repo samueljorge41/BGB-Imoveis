@@ -1,0 +1,167 @@
+[
+  {
+    "id": "001",
+    "titulo": "Casa no Ibituruna",
+    "imagem": [
+      "imoveis/img/casas/casa-01/01.jpeg","imoveis/img/casas/casa-01/02.jpeg","imoveis/img/casas/casa-01/03.jpeg","imoveis/img/casas/casa-01/04.jpeg","imoveis/img/casas/casa-01/05.jpeg","imoveis/img/casas/casa-01/06.jpeg","imoveis/img/casas/casa-01/07.jpeg","imoveis/img/casas/casa-01/08.jpeg","imoveis/img/casas/casa-01/09.jpeg","imoveis/img/casas/casa-01/10.jpeg"
+    ],
+    "descricao": "Casa imponente, térrea e com toda funcionalidade que você precisa.",
+    "legenda": "📐340 m² de lote, sendo 180 m² de área construída\n\n• 3 quartos, sendo 1 suíte com closet\n• Sala ampla para dois ambientes com pé-direito elevado\n• Cozinha integrada ao espaço gourmet\n• Área de lazer com piscina\n• Quintal amplo com lavanderia e espaço externo agradável\n• Garagem para 4 carros (2 vagas cobertas e 2 descobertas)\n\n💰 Valor: R$950.000\n\nEntre em contato conosco e surpreenda-se com essa casa incrível",
+    "preco": "R$ 950.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Ibituruna"
+  },
+  {
+    "id": "002",
+    "titulo": "Casa Magnífica, ampla e aconchegante!",
+    "imagem": [
+      "imoveis/img/casas/casa-02/01.jpeg","imoveis/img/casas/casa-02/02.jpeg","imoveis/img/casas/casa-02/03.jpeg","imoveis/img/casas/casa-02/04.jpeg","imoveis/img/casas/casa-02/05.jpeg","imoveis/img/casas/casa-02/06.jpeg","imoveis/img/casas/casa-02/07.jpeg","imoveis/img/casas/casa-02/08.jpeg","imoveis/img/casas/casa-02/09.jpeg","imoveis/img/casas/casa-02/10.jpeg","imoveis/img/casas/casa-02/11.jpeg","imoveis/img/casas/casa-02/12.jpeg","imoveis/img/casas/casa-02/13.jpeg","imoveis/img/casas/casa-02/14.jpeg","imoveis/img/casas/casa-02/15.jpeg","imoveis/img/casas/casa-02/16.jpeg","imoveis/img/casas/casa-02/17.jpeg","imoveis/img/casas/casa-02/18.jpeg","imoveis/img/casas/casa-02/19.jpeg"
+    ],
+    "descricao": "no Bairro Ibituruna",
+    "legenda": "📐 Lote 525 m² sendo 262 m² de construção\n\n- 2 salas amplas\n- 4 Quartos\n- 3 suítes\n- 4 banheiros\n- Cozinha conjugada com área churrasqueira\n- Área de lazer com piscinas com cascata e hidromassagem\n- 4 vagas de garagem\n\nEssa casa é de tirar o fôlego, nos chame agora mesmo para apresentar para você e sua família o seu novo lar 🏡\n\n💰 Valor: R$ 1.600.000",
+    "preco": "R$ 1.600.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Ibituruna"
+  },
+  {
+    "id": "003",
+    "titulo": "Casa no bairro Alcides Rabelo – Montes Claros",
+    "imagem": [
+      "imoveis/img/casas/casa-04/01.jpeg",
+      "imoveis/img/casas/casa-04/02.jpeg",
+      "imoveis/img/casas/casa-04/03.jpeg",
+      "imoveis/img/casas/casa-04/04.jpeg",
+      "imoveis/img/casas/casa-04/05.jpeg",
+      "imoveis/img/casas/casa-04/06.jpeg",
+      "imoveis/img/casas/casa-04/07.jpeg",
+      "imoveis/img/casas/casa-04/08.jpeg"
+    ],
+    "descricao": "Residência exclusiva em condomínio fechado, com segurança 24h.",
+    "legenda": "✅ Aceita financiamento!\n\n✨ Destaques do imóvel:\n• 3 quartos, sendo 1 suíte;\n• Sala ampla conjugada com cozinha americana;\n• Acabamento moderno e de alta qualidade;\n• Espaço confortável e bem distribuído para sua família.\n\n📍 Localização privilegiada no bairro Alcides Rabelo!\n\nGostou? Entre em contato para mais informações e agende sua visita! 📲🔑",
+    "preco": "R$ 350.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Alcides Rabelo"
+  },
+  {
+    "id": "004",
+    "titulo": "Casa em uma ótima localização no bairro Todos os Santos!",
+    "imagem": [
+      "imoveis/img/casas/casa-05/01.jpeg",
+      "imoveis/img/casas/casa-05/02.jpeg",
+      "imoveis/img/casas/casa-05/03.jpeg",
+      "imoveis/img/casas/casa-05/04.jpeg",
+      "imoveis/img/casas/casa-05/05.jpeg",
+      "imoveis/img/casas/casa-05/06.jpeg",
+      "imoveis/img/casas/casa-05/07.jpeg",
+      "imoveis/img/casas/casa-05/08.jpeg",
+      "imoveis/img/casas/casa-05/09.jpeg",
+      "imoveis/img/casas/casa-05/10.jpeg",
+      "imoveis/img/casas/casa-05/11.jpeg",
+      "imoveis/img/casas/casa-05/12.jpeg"
+    ],
+    "descricao": "Casa em uma ótima localização no bairro Todos os Santos!",
+    "legenda": "✨ Destaques do imóvel:\n\n- Sala integrada à cozinha, criando um ambiente amplo e sofisticado\n- Cozinha com ilha e balcão de pedra, perfeita para os momentos culinários\n- Porta de vidro que conecta a cozinha à área de lazer\n- 3 quartos, sendo 1 suíte com closet\n- Área de churrasqueira completa para aproveitar com a família e amigos\n\n📍 Localização privilegiada no bairro Todos os Santos\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
+    "preco": "R$ 1.200.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Todos os Santos"
+  },
+  {
+    "id": "005",
+    "titulo": "Casa - Condominio Residencial Serrano",
+    "imagem": [
+      "imoveis/img/casas/casa-06/01.jpeg",
+      "imoveis/img/casas/casa-06/02.jpeg",
+      "imoveis/img/casas/casa-06/03.jpeg",
+      "imoveis/img/casas/casa-06/04.jpeg",
+      "imoveis/img/casas/casa-06/05.jpeg",
+      "imoveis/img/casas/casa-06/06.jpeg",
+      "imoveis/img/casas/casa-06/07.jpeg",
+      "imoveis/img/casas/casa-06/08.jpeg",
+      "imoveis/img/casas/casa-06/09.jpeg",
+      "imoveis/img/casas/casa-06/10.jpeg",
+      "imoveis/img/casas/casa-06/11.jpeg",
+      "imoveis/img/casas/casa-06/12.jpeg",
+      "imoveis/img/casas/casa-06/13.jpeg",
+      "imoveis/img/casas/casa-06/14.jpeg"
+    ],
+    "descricao": "Ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.",
+    "legenda": "📐Lote 187,5 m2 sendo 160 m2 de Área construída (sem a piscina)\n\nPiscina: 17 m2 borda infinita, com prainha, hidromassagem, iluminação e aquecimento solar.\n- Garagem p/ 3 carros\n- Sala integrada c/ cozinha\n- 3 Quartos sendo 1 suíte c/ closet\n- 1 Banheiro social\n- Area gourmet c/ churrasqueira a gás Suggar\n- 1 Banheiro área gourmet\n\nObs: ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.\n\n💰Valor= R$ 850.000",
+    "preco": "R$ 850.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Residencial Serrano"
+  },
+  {
+    "id": "006",
+    "titulo": "Casa disponível para venda no bairro Jardim Primavera",
+    "imagem": [
+      "imoveis/img/casas/casa-07/01.jpeg",
+      "imoveis/img/casas/casa-07/02.jpeg",
+      "imoveis/img/casas/casa-07/03.jpeg",
+      "imoveis/img/casas/casa-07/04.jpeg",
+      "imoveis/img/casas/casa-07/05.jpeg",
+      "imoveis/img/casas/casa-07/06.jpeg",
+      "imoveis/img/casas/casa-07/07.jpeg",
+      "imoveis/img/casas/casa-07/08.jpeg",
+      "imoveis/img/casas/casa-07/09.jpeg",
+      "imoveis/img/casas/casa-07/10.jpeg",
+      "imoveis/img/casas/casa-07/11.jpeg",
+      "imoveis/img/casas/casa-07/12.jpeg",
+      "imoveis/img/casas/casa-07/13.jpeg"
+    ],
+    "descricao": "Aceitamos qualquer tipo de financiamento incluindo o MINHA CASA MINHA VIDA",
+    "legenda": "Composta de:\n\n- 02 dormitórios sendo 01 suíte;\n- 01 banheiro social;\n- 01 sala de estar/jantar;\n- 01 cozinha estilo americana;\n- Piso e revestimento em cerâmica;\n- Luminária em LED.\n- Concertina\n- Área de serviço;\n- Garagem para até 02 carros.\n\nLote: 125 mt²\nCasa: 60 mt²\nValor: R$ 230mil",
+    "preco": "R$ 230.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Jardim Primavera"
+  },
+  {
+    "id": "007",
+    "titulo": "Casa no bairro Planalto",
+    "imagem": [
+      "imoveis/img/casas/casa-08/01.jpeg","imoveis/img/casas/casa-08/02.jpeg","imoveis/img/casas/casa-08/03.jpeg","imoveis/img/casas/casa-08/04.jpeg","imoveis/img/casas/casa-08/05.jpeg","imoveis/img/casas/casa-08/06.jpeg","imoveis/img/casas/casa-08/07.jpeg","imoveis/img/casas/casa-08/08.jpeg","imoveis/img/casas/casa-08/09.jpeg","imoveis/img/casas/casa-08/10.jpeg","imoveis/img/casas/casa-08/11.jpeg","imoveis/img/casas/casa-08/12.jpeg","imoveis/img/casas/casa-08/13.jpeg"
+    ],
+    "descricao": "Com acabamento impecável de Alto Padrão",
+    "legenda": "Composta de:\n\n- 3 quartos, sendo 1 suíte\n- sala ampla para 2 ambientes\n- Cozinha ampla\n- Banheiro social\n- Área serviço coberta\n- Área gourmet com churrasqueira\n- caixinha de som ambiente no teto\n\n💰 Valor : R$ 720.000,00\n\nSeu imóvel é com a BGB IMÓVEIS, entre em contato conosco e agende seu horário.",
+    "preco": "R$ 720.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Planalto"
+  },
+  {
+    "id": "008",
+    "titulo": "Edifício Nápolis – Conforto e Lazer Completo!",
+    "imagem": [
+      "imoveis/img/apartamentos/apto-01/01.jpeg","imoveis/img/apartamentos/apto-01/02.jpeg","imoveis/img/apartamentos/apto-01/03.jpeg","imoveis/img/apartamentos/apto-01/04.jpeg","imoveis/img/apartamentos/apto-01/05.jpeg","imoveis/img/apartamentos/apto-01/06.jpeg","imoveis/img/apartamentos/apto-01/07.jpeg","imoveis/img/apartamentos/apto-01/08.jpeg","imoveis/img/apartamentos/apto-01/09.jpeg","imoveis/img/apartamentos/apto-01/10.jpeg","imoveis/img/apartamentos/apto-01/11.jpeg","imoveis/img/apartamentos/apto-01/12.jpeg","imoveis/img/apartamentos/apto-01/13.jpeg","imoveis/img/apartamentos/apto-01/14.jpeg","imoveis/img/apartamentos/apto-01/15.jpeg","imoveis/img/apartamentos/apto-01/16.jpeg","imoveis/img/apartamentos/apto-01/17.jpeg"
+    ],
+    "descricao": "Este incrível apartamento oferece tudo o que você precisa para viver bem!",
+    "legenda": "✨Destaques do condomínio:\n\n- Piscina\n- Academia completa\n- Playground\n- Sala de jogos\n- Espaço para eventos e festas\n\nDestaques do apartamento:\n- 3 quartos, sendo 1 suíte\n- Banheiro social\n- Sala ampla com varanda e espaço para churrasco\n- Cozinha com marcenaria planejada e banheiro de serviço\n- Marcenaria completa em todos os ambientes\n\n💰 Valor : 1.050.000,00\n\n📍 Localização privilegiada!\n\nGostou? Entre em contato e agende sua visita! 📲🔑",
+    "preco": "R$ 1.050.000",
+    "tipo": "apartamento",
+    "ativo": true,
+    "bairro": "Edifício Nápolis"
+  },
+  {
+    "id": "009",
+    "titulo": "Lote no Barcelona Park",
+    "imagem": [
+      "imoveis/img/lotes/lote-01/01.jpeg",
+      "imoveis/img/lotes/lote-01/02.jpeg",
+      "imoveis/img/lotes/lote-01/03.jpeg",
+      "imoveis/img/lotes/lote-01/04.jpeg",
+      "imoveis/img/lotes/lote-01/05.jpeg"
+    ],
+    "descricao": "295,79 m² | Frente 12.15 | fundo 9.74 | Cumprimento 27",
+    "legenda": "Lote espaçoso no Barcelona Park.",
+    "preco": "R$ 220.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Barcelona Park"
+  }
+]
+
