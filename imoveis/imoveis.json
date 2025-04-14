@@ -191,7 +191,7 @@
     ],
     "descricao": "500 m² de lote, sendo 240 m² de área construída.",
     "legenda": "Andar de baixo\n- sala\n- suíte\n- banheiro social\n- cozinha\n- área gourmet dentro da casa e na área externa com lavabo.\n\nAndar superior\n- 3 quartos sendo uma suíte\n- banheiro social\n\nValor: R$1.700,00",
-    "preco": "R$ 1.700,00",
+    "preco": "R$ 1.700",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Condomínio"
@@ -206,7 +206,7 @@
     ],
     "descricao": "Casa com excelente localização no Jardim Primavera.",
     "legenda": "🏡 Casa no bairro Jardim Primavera\n\n✨ Destaques do imóvel:\n- 3 quartos, sendo 1 suíte\n- Sala ampla\n- Cozinha moderna\n- Área de lazer com churrasqueira\n\n💰 Valor: R$ 450.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
-    "preco": "R$ 450.000,00",
+    "preco": "R$ 450.000",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Jardim Primavera"
@@ -221,7 +221,7 @@
     ],
     "descricao": "Casa moderna e espaçosa no bairro Planalto.",
     "legenda": "🏡 Casa no bairro Planalto\n\n✨ Destaques do imóvel:\n- 4 quartos, sendo 2 suítes\n- Sala ampla com pé-direito duplo\n- Cozinha integrada com área gourmet\n- Piscina com iluminação LED\n\n💰 Valor: R$ 1.200.000,00\n\nAgende sua visita e conheça essa oportunidade incrível! 📲",
-    "preco": "R$ 1.200.000,00",
+    "preco": "R$ 1.200.000",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Planalto"
@@ -236,7 +236,7 @@
     ],
     "descricao": "Casa com acabamento de alto padrão no bairro Todos os Santos.",
     "legenda": "🏡 Casa no bairro Todos os Santos\n\n✨ Destaques do imóvel:\n- 3 quartos, sendo 1 suíte com closet\n- Sala integrada com cozinha\n- Área de lazer com churrasqueira e piscina\n- Garagem para 2 carros\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
-    "preco": "R$ 950.000,00",
+    "preco": "R$ 950.000",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Todos os Santos"
@@ -247,13 +247,29 @@
     "imagem": [
       "imoveis/img/casas/casa-14/01.jpeg",
       "imoveis/img/casas/casa-14/02.jpeg",
-      "imoveis/img/casas/casa-14/03.jpeg"
+      "imoveis/img/casas/casa-14/03.jpeg",
+      "imoveis/img/casas/casa-14/04.jpeg",
+      "imoveis/img/casas/casa-14/05.jpeg",
+      "imoveis/img/casas/casa-14/06.jpeg",
+      "imoveis/img/casas/casa-14/07.jpeg",
+      "imoveis/img/casas/casa-14/08.jpeg",
+      "imoveis/img/casas/casa-14/09.jpeg",
+      "imoveis/img/casas/casa-14/10.jpeg",
+      "imoveis/img/casas/casa-14/11.jpeg",
+      "imoveis/img/casas/casa-14/12.jpeg",
+      "imoveis/img/casas/casa-14/13.jpeg",
+      "imoveis/img/casas/casa-14/14.jpeg",
+      "imoveis/img/casas/casa-14/15.jpeg",
+      "imoveis/img/casas/casa-14/16.jpeg",
+      "imoveis/img/casas/casa-14/17.jpeg",
+      "imoveis/img/casas/casa-14/18.jpeg",
+      "imoveis/img/casas/casa-14/19.jpeg"
     ],
-    "descricao": "Casa ampla e confortável no bairro Ibituruna.",
-    "legenda": "🏡 Casa no bairro Ibituruna\n\n✨ Destaques do imóvel:\n- 5 quartos, sendo 3 suítes\n- Sala de estar e jantar\n- Cozinha planejada\n- Área gourmet com churrasqueira\n- Piscina com cascata\n\n💰 Valor: R$ 2.000.000,00\n\nNão perca essa oportunidade! Agende sua visita. 📲",
-    "preco": "R$ 2.000.000,00",
+    "descricao": "SOBRADO TOP – PLANALTO PROXIMO AO CORDEIRO SUPERMERCADOS",
+    "legenda": "Térreo: garagem para 02 carros conjugada com espaço gourmet/pia e churrasqueira, sala/cozinha, banheiro, 01 quarto e área de serviços. – 1º Pav: 01 quarto com sacada, banheiro social e 01 quarto suíte. Telhado metálico, acabamento de 1ª. 99 m2 de construção e 90 m2 de terreno. R$ 380.000,00.",
+    "preco": "R$ 380.000",
     "tipo": "casa",
     "ativo": true,
-    "bairro": "Ibituruna"
+    "bairro": "PLANALTO"
   }
 ]
