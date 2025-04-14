@@ -228,18 +228,18 @@
   },
   {
     "id": "013",
-    "titulo": "Casa no bairro Todos os Santos",
+    "titulo": "Rua 20, nº 41, Residencial Sul Jacarandás",
     "imagem": [
       "imoveis/img/casas/casa-13/01.jpeg",
       "imoveis/img/casas/casa-13/02.jpeg",
       "imoveis/img/casas/casa-13/03.jpeg"
     ],
-    "descricao": "Casa com acabamento de alto padrão no bairro Todos os Santos.",
-    "legenda": "🏡 Casa no bairro Todos os Santos\n\n✨ Destaques do imóvel:\n- 3 quartos, sendo 1 suíte com closet\n- Sala integrada com cozinha\n- Área de lazer com churrasqueira e piscina\n- Garagem para 2 carros\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
-    "preco": "R$ 950.000",
+    "descricao": "Fachada moderna",
+    "legenda": "composta por garagem para 04 carros conjugada com espaço gourmet/pia e churrasqueira, sala com pé direito elevado, cozinha, banheiro social, 02 quartos, 01 quarto suíte e área de serviços. \n- Telhado colonial, rebaixamento de gesso, acabamento Top.\n- 200 m2 de lote e 106 m2 de construção.\n\nR$ 450.000,00",
+    "preco": "R$ 450.000",
     "tipo": "casa",
     "ativo": true,
-    "bairro": "Todos os Santos"
+    "bairro": "Residencial Sul"
   },
   {
     "id": "014",
@@ -248,7 +248,6 @@
       "imoveis/img/casas/casa-14/01.jpeg",
       "imoveis/img/casas/casa-14/02.jpeg",
       "imoveis/img/casas/casa-14/03.jpeg",
-      "imoveis/img/casas/casa-14/04.jpeg",
       "imoveis/img/casas/casa-14/05.jpeg",
       "imoveis/img/casas/casa-14/06.jpeg",
       "imoveis/img/casas/casa-14/07.jpeg",
