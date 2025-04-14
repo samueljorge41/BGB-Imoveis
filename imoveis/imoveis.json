@@ -162,6 +162,98 @@
     "tipo": "lote",
     "ativo": true,
     "bairro": "Barcelona Park"
+  },
+  {
+    "id": "010",
+    "titulo": "Casa em condomínio ",
+    "imagem": [
+      "imoveis/img/casas/casa-09/01.jpeg",
+      "imoveis/img/casas/casa-09/02.jpeg",
+      "imoveis/img/casas/casa-09/03.jpeg",
+      "imoveis/img/casas/casa-09/04.jpeg",
+      "imoveis/img/casas/casa-09/05.jpeg",
+      "imoveis/img/casas/casa-09/06.jpeg",
+      "imoveis/img/casas/casa-09/07.jpeg",
+      "imoveis/img/casas/casa-09/08.jpeg",
+      "imoveis/img/casas/casa-09/09.jpeg",
+      "imoveis/img/casas/casa-09/10.jpeg",
+      "imoveis/img/casas/casa-09/11.jpeg",
+      "imoveis/img/casas/casa-09/12.jpeg",
+      "imoveis/img/casas/casa-09/13.jpeg",
+      "imoveis/img/casas/casa-09/14.jpeg",
+      "imoveis/img/casas/casa-09/15.jpeg",
+      "imoveis/img/casas/casa-09/16.jpeg",
+      "imoveis/img/casas/casa-09/17.jpeg",
+      "imoveis/img/casas/casa-09/18.jpeg",
+      "imoveis/img/casas/casa-09/19.jpeg",
+      "imoveis/img/casas/casa-09/20.jpeg",
+      "imoveis/img/casas/casa-09/21.jpeg"
+    ],
+    "descricao": "500 m² de lote, sendo 240 m² de área construída.",
+    "legenda": "Andar de baixo\n- sala\n- suíte\n- banheiro social\n- cozinha\n- área gourmet dentro da casa e na área externa com lavabo.\n\nAndar superior\n- 3 quartos sendo uma suíte\n- banheiro social\n\nValor: R$1.700,00",
+    "preco": "R$ 1.700,00",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Condomínio"
+  },
+  {
+    "id": "011",
+    "titulo": "Casa no bairro Jardim Primavera",
+    "imagem": [
+      "imoveis/img/casas/casa-11/01.jpeg",
+      "imoveis/img/casas/casa-11/02.jpeg",
+      "imoveis/img/casas/casa-11/03.jpeg"
+    ],
+    "descricao": "Casa com excelente localização no Jardim Primavera.",
+    "legenda": "🏡 Casa no bairro Jardim Primavera\n\n✨ Destaques do imóvel:\n- 3 quartos, sendo 1 suíte\n- Sala ampla\n- Cozinha moderna\n- Área de lazer com churrasqueira\n\n💰 Valor: R$ 450.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
+    "preco": "R$ 450.000,00",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Jardim Primavera"
+  },
+  {
+    "id": "012",
+    "titulo": "Casa no bairro Planalto",
+    "imagem": [
+      "imoveis/img/casas/casa-12/01.jpeg",
+      "imoveis/img/casas/casa-12/02.jpeg",
+      "imoveis/img/casas/casa-12/03.jpeg"
+    ],
+    "descricao": "Casa moderna e espaçosa no bairro Planalto.",
+    "legenda": "🏡 Casa no bairro Planalto\n\n✨ Destaques do imóvel:\n- 4 quartos, sendo 2 suítes\n- Sala ampla com pé-direito duplo\n- Cozinha integrada com área gourmet\n- Piscina com iluminação LED\n\n💰 Valor: R$ 1.200.000,00\n\nAgende sua visita e conheça essa oportunidade incrível! 📲",
+    "preco": "R$ 1.200.000,00",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Planalto"
+  },
+  {
+    "id": "013",
+    "titulo": "Casa no bairro Todos os Santos",
+    "imagem": [
+      "imoveis/img/casas/casa-13/01.jpeg",
+      "imoveis/img/casas/casa-13/02.jpeg",
+      "imoveis/img/casas/casa-13/03.jpeg"
+    ],
+    "descricao": "Casa com acabamento de alto padrão no bairro Todos os Santos.",
+    "legenda": "🏡 Casa no bairro Todos os Santos\n\n✨ Destaques do imóvel:\n- 3 quartos, sendo 1 suíte com closet\n- Sala integrada com cozinha\n- Área de lazer com churrasqueira e piscina\n- Garagem para 2 carros\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
+    "preco": "R$ 950.000,00",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Todos os Santos"
+  },
+  {
+    "id": "014",
+    "titulo": "Casa no bairro Ibituruna",
+    "imagem": [
+      "imoveis/img/casas/casa-14/01.jpeg",
+      "imoveis/img/casas/casa-14/02.jpeg",
+      "imoveis/img/casas/casa-14/03.jpeg"
+    ],
+    "descricao": "Casa ampla e confortável no bairro Ibituruna.",
+    "legenda": "🏡 Casa no bairro Ibituruna\n\n✨ Destaques do imóvel:\n- 5 quartos, sendo 3 suítes\n- Sala de estar e jantar\n- Cozinha planejada\n- Área gourmet com churrasqueira\n- Piscina com cascata\n\n💰 Valor: R$ 2.000.000,00\n\nNão perca essa oportunidade! Agende sua visita. 📲",
+    "preco": "R$ 2.000.000,00",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Ibituruna"
   }
 ]
-
