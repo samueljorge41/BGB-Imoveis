@@ -198,33 +198,47 @@
   },
   {
     "id": "011",
-    "titulo": "Casa no bairro Jardim Primavera",
+    "titulo": "Apartamento bairro Todos os Santos. (Edifício Firenze)",
     "imagem": [
       "imoveis/img/casas/casa-11/01.jpeg",
       "imoveis/img/casas/casa-11/02.jpeg",
-      "imoveis/img/casas/casa-11/03.jpeg"
+      "imoveis/img/casas/casa-11/03.jpeg",
+      "imoveis/img/casas/casa-11/04.jpeg",
+      "imoveis/img/casas/casa-11/05.jpeg",
+      "imoveis/img/casas/casa-11/06.jpeg",
+      "imoveis/img/casas/casa-11/07.jpeg",
+      "imoveis/img/casas/casa-11/08.jpeg",
+      "imoveis/img/casas/casa-11/09.jpeg",
+      "imoveis/img/casas/casa-11/10.jpeg",
+      "imoveis/img/casas/casa-11/11.jpeg",
+      "imoveis/img/casas/casa-11/12.jpeg",
+      "imoveis/img/casas/casa-11/13.jpeg",
+      "imoveis/img/casas/casa-11/14.jpeg",
+      "imoveis/img/casas/casa-11/15.jpeg",
+      "imoveis/img/casas/casa-11/16.jpeg",
+      "imoveis/img/casas/casa-11/17.jpeg"
     ],
-    "descricao": "Casa com excelente localização no Jardim Primavera.",
-    "legenda": "🏡 Casa no bairro Jardim Primavera\n\n✨ Destaques do imóvel:\n- 3 quartos, sendo 1 suíte\n- Sala ampla\n- Cozinha moderna\n- Área de lazer com churrasqueira\n\n💰 Valor: R$ 450.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
+    "descricao": "3 quartos sendo uma suites",
+    "legenda": "sala, cozinha, marcenaria completa, localização privilegiada ,garagem para 2 carros pequenos. \n\nR$ 470.000,00 \n\nPortaria 24h, area de festas",
     "preco": "R$ 450.000",
     "tipo": "casa",
     "ativo": true,
-    "bairro": "Jardim Primavera"
+    "bairro": "Edifício Firenze, Todos os Santos"
   },
   {
     "id": "012",
-    "titulo": "Casa no bairro Planalto",
+    "titulo": "Cobertura bairro Ibituruna",
     "imagem": [
       "imoveis/img/casas/casa-12/01.jpeg",
       "imoveis/img/casas/casa-12/02.jpeg",
       "imoveis/img/casas/casa-12/03.jpeg"
     ],
-    "descricao": "Casa moderna e espaçosa no bairro Planalto.",
-    "legenda": "🏡 Casa no bairro Planalto\n\n✨ Destaques do imóvel:\n- 4 quartos, sendo 2 suítes\n- Sala ampla com pé-direito duplo\n- Cozinha integrada com área gourmet\n- Piscina com iluminação LED\n\n💰 Valor: R$ 1.200.000,00\n\nAgende sua visita e conheça essa oportunidade incrível! 📲",
-    "preco": "R$ 1.200.000",
+    "descricao": "3 quartos sendo uma suite",
+    "legenda": "cozinha americana conjulgada com sala.\n\nR$ 550.000,00",
+    "preco": "R$ 550.000",
     "tipo": "casa",
     "ativo": true,
-    "bairro": "Planalto"
+    "bairro": "Ibituruna"
   },
   {
     "id": "013",
