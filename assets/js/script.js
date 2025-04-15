@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const div = document.createElement("div");
                     div.classList.add("card");
                     div.innerHTML = `
-                        <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir">
+                        <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir" loading="lazy">
                         <h2>${imovel.titulo}</h2>
                         <p>${imovel.descricao}</p>
                         <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -53,15 +53,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     container.appendChild(div);
 
-                    // Clicar na imagem abre o modal
-                    div.querySelector(".img-expandir").addEventListener("click", () => {
+                    // Clicar em qualquer parte do card abre o modal
+                    div.addEventListener("click", () => {
                         abrirModal(imovel);
                     });
 
-                    // Clicar no botão "Mais detalhes" também abre o modal
-                    div.querySelector(".btn-detalhes").addEventListener("click", () => {
-                        abrirModal(imovel);
-                    });
+                    // Remover eventos específicos de clique em imagem ou botão
+                    div.querySelector(".img-expandir").style.pointerEvents = "none";
+                    div.querySelector(".btn-detalhes").style.pointerEvents = "none";
                 }
             });
         })

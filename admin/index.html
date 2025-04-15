@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Administração</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .login-container, .admin-container {
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        input, textarea, select, button {
+            width: 100%;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container" id="login-container">
+        <h1>Login</h1>
+        <input type="text" id="username" placeholder="Usuário">
+        <input type="password" id="password" placeholder="Senha">
+        <button onclick="login()">Entrar</button>
+    </div>
+
+    <div class="admin-container" id="admin-container" style="display: none;">
+        <h1>Painel de Administração</h1>
+        <form id="add-imovel-form">
+            <input type="text" id="titulo" placeholder="Título do Imóvel" required>
+            <textarea id="descricao" placeholder="Descrição" required></textarea>
+            <input type="text" id="preco" placeholder="Preço" required>
+            <select id="tipo" required>
+                <option value="casa">Casa</option>
+                <option value="apartamento">Apartamento</option>
+                <option value="lote">Lote</option>
+            </select>
+            <input type="text" id="bairro" placeholder="Bairro" required>
+            <textarea id="legenda" placeholder="Legenda"></textarea>
+            <input type="text" id="imagens" placeholder="URLs das Imagens (separadas por vírgula)">
+            <button type="button" onclick="adicionarImovel()">Adicionar Imóvel</button>
+        </form>
+    </div>
+
+    <script>
+        function login() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            if (username === 'admin' && password === 'admin') {
+                document.getElementById('login-container').style.display = 'none';
+                document.getElementById('admin-container').style.display = 'block';
+            } else {
+                alert('Usuário ou senha incorretos!');
+            }
+        }
+
+        function adicionarImovel() {
+            const imovel = {
+                titulo: document.getElementById('titulo').value,
+                descricao: document.getElementById('descricao').value,
+                preco: document.getElementById('preco').value,
+                tipo: document.getElementById('tipo').value,
+                bairro: document.getElementById('bairro').value,
+                legenda: document.getElementById('legenda').value,
+                imagens: document.getElementById('imagens').value.split(',')
+            };
+
+            console.log('Novo imóvel adicionado:', imovel);
+            alert('Imóvel adicionado com sucesso!');
+            document.getElementById('add-imovel-form').reset();
+        }
+    </script>
+</body>
+</html>

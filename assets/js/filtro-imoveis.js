@@ -65,24 +65,26 @@ document.addEventListener("DOMContentLoaded", () => {
                     const div = document.createElement("div");
                     div.classList.add("card");
                     div.innerHTML = `
-                        <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir" data-imovel='${JSON.stringify(imovel)}'>
-                        <h2>${imovel.titulo}</h2>
+                        <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir">
+                        <h2 style="font-weight: bold;">${imovel.titulo}</h2>
                         <p>${imovel.descricao}</p>
                         <div style="display: flex; justify-content: space-between; align-items: center;">
                             <p style="margin: 0;">${imovel.preco}</p>
-                            <button class="btn-detalhes" data-imovel='${JSON.stringify(imovel)}'>Mais detalhes</button>
+                            <button class="btn-detalhes">Mais detalhes</button>
                         </div>
                     `;
-                    container.appendChild(div);
-                }
-            });
 
-            // Eventos para abrir modal
-            document.querySelectorAll(".btn-detalhes, .img-expandir").forEach(element => {
-                element.addEventListener("click", () => {
-                    const imovel = JSON.parse(element.getAttribute("data-imovel"));
-                    abrirModal(imovel);
-                });
+                    container.appendChild(div);
+
+                    // Clicar em qualquer parte do card abre o modal
+                    div.addEventListener("click", () => {
+                        abrirModal(imovel);
+                    });
+
+                    // Remover eventos específicos de clique em imagem ou botão
+                    div.querySelector(".img-expandir").style.pointerEvents = "none";
+                    div.querySelector(".btn-detalhes").style.pointerEvents = "none";
+                }
             });
         })
         .catch(error => console.error("Erro ao carregar imóveis:", error));
@@ -154,22 +156,24 @@ document.addEventListener("DOMContentLoaded", () => {
                     const div = document.createElement("div");
                     div.classList.add("card");
                     div.innerHTML = `
-                        <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir" data-imovel='${JSON.stringify(imovel)}'>
-                        <h2>${imovel.titulo}</h2>
+                        <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir">
+                        <h2 style="font-weight: bold;">${imovel.titulo}</h2>
                         <p>${imovel.descricao}</p>
                         <div style="display: flex; justify-content: space-between; align-items: center;">
                             <p style="margin: 0;">${imovel.preco}</p>
-                            <button class="btn-detalhes" data-imovel='${JSON.stringify(imovel)}'>Mais detalhes</button>
+                            <button class="btn-detalhes">Mais detalhes</button>
                         </div>
                     `;
                     container.appendChild(div);
-                });
 
-                document.querySelectorAll(".btn-detalhes, .img-expandir").forEach(element => {
-                    element.addEventListener("click", () => {
-                        const imovel = JSON.parse(element.getAttribute("data-imovel"));
+                    // Clicar em qualquer parte do card abre o modal
+                    div.addEventListener("click", () => {
                         abrirModal(imovel);
                     });
+
+                    // Remover eventos específicos de clique em imagem ou botão
+                    div.querySelector(".img-expandir").style.pointerEvents = "none";
+                    div.querySelector(".btn-detalhes").style.pointerEvents = "none";
                 });
 
                 document.getElementById("secao-imoveis").scrollIntoView({ behavior: 'smooth' });

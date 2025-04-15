@@ -356,6 +356,11 @@ body.modal-open {
     text-align: left; /* Alinha os textos à esquerda */
 }
 
+#modal-description-text {
+    font-weight: bold; /* Deixa o texto em negrito */
+    margin-bottom: 15px;
+}
+
 #cta-button {
     display: flex; /* Garante que o botão seja tratado como um elemento flexível */
     align-items: center; /* Centraliza verticalmente o conteúdo do botão */

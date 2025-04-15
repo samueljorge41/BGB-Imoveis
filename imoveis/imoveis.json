@@ -3,10 +3,10 @@
     "id": "001",
     "titulo": "Casa no Ibituruna",
     "imagem": [
-      "imoveis/img/casas/casa-01/01.webp","imoveis/img/casas/casa-01/02.webp","imoveis/img/casas/casa-01/03.webp","imoveis/img/casas/casa-01/04.webp","imoveis/img/casas/casa-01/05.webp","imoveis/img/casas/casa-01/06.webp","imoveis/img/casas/casa-01/07.webp","imoveis/img/casas/casa-01/08.webp","imoveis/img/casas/casa-01/09.webp","imoveis/img/casas/casa-01/10.webp"
+      "imoveis/img/001/01.webp","imoveis/img/001/02.webp","imoveis/img/001/03.webp","imoveis/img/001/04.webp","imoveis/img/001/05.webp","imoveis/img/001/06.webp","imoveis/img/001/07.webp","imoveis/img/001/08.webp","imoveis/img/001/09.webp","imoveis/img/001/10.webp"
     ],
     "descricao": "Casa imponente, térrea e com toda funcionalidade que você precisa.",
-    "legenda": "📐340 m² de lote, sendo 180 m² de área construída\n\n• 3 quartos, sendo 1 suíte com closet\n• Sala ampla para dois ambientes com pé-direito elevado\n• Cozinha integrada ao espaço gourmet\n• Área de lazer com piscina\n• Quintal amplo com lavanderia e espaço externo agradável\n• Garagem para 4 carros (2 vagas cobertas e 2 descobertas)\n\n💰 Valor: R$950.000\n\nEntre em contato conosco e surpreenda-se com essa casa incrível",
+    "legenda": "📐340 m² de lote, sendo 180 m² de área construída\n• 3 quartos, sendo 1 suíte com closet\n• Sala ampla para dois ambientes com pé-direito elevado\n• Cozinha integrada ao espaço gourmet\n• Área de lazer com piscina\n• Quintal amplo com lavanderia e espaço externo agradável\n• Garagem para 4 carros (2 vagas cobertas e 2 descobertas)\n\n💰 Valor: R$950.000\n\nEntre em contato conosco e surpreenda-se com essa casa incrível",
     "preco": "R$ 950.000",
     "tipo": "casa",
     "ativo": true,
@@ -16,7 +16,7 @@
     "id": "002",
     "titulo": "Casa Magnífica, ampla e aconchegante!",
     "imagem": [
-      "imoveis/img/casas/casa-02/01.webp","imoveis/img/casas/casa-02/02.webp","imoveis/img/casas/casa-02/03.webp","imoveis/img/casas/casa-02/04.webp","imoveis/img/casas/casa-02/05.webp","imoveis/img/casas/casa-02/06.webp","imoveis/img/casas/casa-02/07.webp","imoveis/img/casas/casa-02/08.webp","imoveis/img/casas/casa-02/09.webp","imoveis/img/casas/casa-02/10.webp","imoveis/img/casas/casa-02/11.webp","imoveis/img/casas/casa-02/12.webp","imoveis/img/casas/casa-02/13.webp","imoveis/img/casas/casa-02/14.webp","imoveis/img/casas/casa-02/15.webp","imoveis/img/casas/casa-02/16.webp","imoveis/img/casas/casa-02/17.webp","imoveis/img/casas/casa-02/18.webp","imoveis/img/casas/casa-02/19.webp"
+      "imoveis/img/002/01.webp","imoveis/img/002/02.webp","imoveis/img/002/03.webp","imoveis/img/002/04.webp","imoveis/img/002/05.webp","imoveis/img/002/06.webp","imoveis/img/002/07.webp","imoveis/img/002/08.webp","imoveis/img/002/09.webp","imoveis/img/002/10.webp","imoveis/img/002/11.webp","imoveis/img/002/12.webp","imoveis/img/002/13.webp","imoveis/img/002/14.webp","imoveis/img/002/15.webp","imoveis/img/002/16.webp","imoveis/img/002/17.webp","imoveis/img/002/18.webp","imoveis/img/002/19.webp"
     ],
     "descricao": "no Bairro Ibituruna",
     "legenda": "📐 Lote 525 m² sendo 262 m² de construção\n\n- 2 salas amplas\n- 4 Quartos\n- 3 suítes\n- 4 banheiros\n- Cozinha conjugada com área churrasqueira\n- Área de lazer com piscinas com cascata e hidromassagem\n- 4 vagas de garagem\n\nEssa casa é de tirar o fôlego, nos chame agora mesmo para apresentar para você e sua família o seu novo lar 🏡\n\n💰 Valor: R$ 1.600.000",
@@ -29,17 +29,10 @@
     "id": "003",
     "titulo": "Casa no bairro Alcides Rabelo – Montes Claros",
     "imagem": [
-      "imoveis/img/casas/casa-04/01.webp",
-      "imoveis/img/casas/casa-04/02.webp",
-      "imoveis/img/casas/casa-04/03.webp",
-      "imoveis/img/casas/casa-04/04.webp",
-      "imoveis/img/casas/casa-04/05.webp",
-      "imoveis/img/casas/casa-04/06.webp",
-      "imoveis/img/casas/casa-04/07.webp",
-      "imoveis/img/casas/casa-04/08.webp"
+      "imoveis/img/003/01.webp","imoveis/img/003/02.webp","imoveis/img/003/03.webp","imoveis/img/003/04.webp","imoveis/img/003/05.webp","imoveis/img/003/06.webp","imoveis/img/003/07.webp","imoveis/img/003/08.webp"
     ],
     "descricao": "Residência exclusiva em condomínio fechado, com segurança 24h.",
-    "legenda": "✅ Aceita financiamento!\n\n✨ Destaques do imóvel:\n• 3 quartos, sendo 1 suíte;\n• Sala ampla conjugada com cozinha americana;\n• Acabamento moderno e de alta qualidade;\n• Espaço confortável e bem distribuído para sua família.\n\n📍 Localização privilegiada no bairro Alcides Rabelo!\n\nGostou? Entre em contato para mais informações e agende sua visita! 📲🔑",
+    "legenda": "✅ Aceita financiamento!\n\n✨ <b>Destaques do imóvel:</b>\n• 3 quartos, sendo 1 suíte;\n• Sala ampla conjugada com cozinha americana;\n• Acabamento moderno e de alta qualidade;\n• Espaço confortável e bem distribuído para sua família.\n\n📍 Localização privilegiada no bairro Alcides Rabelo!\n\nGostou? Entre em contato para mais informações e agende sua visita! 📲🔑",
     "preco": "R$ 350.000",
     "tipo": "casa",
     "ativo": true,
@@ -49,21 +42,10 @@
     "id": "004",
     "titulo": "Casa em uma ótima localização no bairro Todos os Santos!",
     "imagem": [
-      "imoveis/img/casas/casa-05/01.webp",
-      "imoveis/img/casas/casa-05/02.webp",
-      "imoveis/img/casas/casa-05/03.webp",
-      "imoveis/img/casas/casa-05/04.webp",
-      "imoveis/img/casas/casa-05/05.webp",
-      "imoveis/img/casas/casa-05/06.webp",
-      "imoveis/img/casas/casa-05/07.webp",
-      "imoveis/img/casas/casa-05/08.webp",
-      "imoveis/img/casas/casa-05/09.webp",
-      "imoveis/img/casas/casa-05/10.webp",
-      "imoveis/img/casas/casa-05/11.webp",
-      "imoveis/img/casas/casa-05/12.webp"
+      "imoveis/img/004/01.webp","imoveis/img/004/02.webp","imoveis/img/004/03.webp","imoveis/img/004/04.webp","imoveis/img/004/05.webp","imoveis/img/004/06.webp","imoveis/img/004/07.webp","imoveis/img/004/08.webp","imoveis/img/004/09.webp","imoveis/img/004/10.webp","imoveis/img/004/11.webp"
     ],
     "descricao": "Casa em uma ótima localização no bairro Todos os Santos!",
-    "legenda": "✨ Destaques do imóvel:\n\n- Sala integrada à cozinha, criando um ambiente amplo e sofisticado\n- Cozinha com ilha e balcão de pedra, perfeita para os momentos culinários\n- Porta de vidro que conecta a cozinha à área de lazer\n- 3 quartos, sendo 1 suíte com closet\n- Área de churrasqueira completa para aproveitar com a família e amigos\n\n📍 Localização privilegiada no bairro Todos os Santos\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
+    "legenda": "✨ <b>Destaques do imóvel:</b>\n- Sala integrada à cozinha, criando um ambiente amplo e sofisticado\n- Cozinha com ilha e balcão de pedra, perfeita para os momentos culinários\n- Porta de vidro que conecta a cozinha à área de lazer\n- 3 quartos, sendo 1 suíte com closet\n- Área de churrasqueira completa para aproveitar com a família e amigos\n\n📍 Localização privilegiada no bairro Todos os Santos\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
     "preco": "R$ 950.000",
     "tipo": "casa",
     "ativo": true,
@@ -73,20 +55,7 @@
     "id": "005",
     "titulo": "Casa - Condominio Residencial Serrano",
     "imagem": [
-      "imoveis/img/casas/casa-06/01.webp",
-      "imoveis/img/casas/casa-06/02.webp",
-      "imoveis/img/casas/casa-06/03.webp",
-      "imoveis/img/casas/casa-06/04.webp",
-      "imoveis/img/casas/casa-06/05.webp",
-      "imoveis/img/casas/casa-06/06.webp",
-      "imoveis/img/casas/casa-06/07.webp",
-      "imoveis/img/casas/casa-06/08.webp",
-      "imoveis/img/casas/casa-06/09.webp",
-      "imoveis/img/casas/casa-06/10.webp",
-      "imoveis/img/casas/casa-06/11.webp",
-      "imoveis/img/casas/casa-06/12.webp",
-      "imoveis/img/casas/casa-06/13.webp",
-      "imoveis/img/casas/casa-06/14.webp"
+      "imoveis/img/005/01.webp","imoveis/img/005/02.webp","imoveis/img/005/03.webp","imoveis/img/005/04.webp","imoveis/img/005/05.webp","imoveis/img/005/06.webp","imoveis/img/005/07.webp","imoveis/img/005/08.webp","imoveis/img/005/09.webp","imoveis/img/005/10.webp","imoveis/img/005/11.webp","imoveis/img/005/12.webp","imoveis/img/005/13.webp"
     ],
     "descricao": "Ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.",
     "legenda": "📐Lote 187,5 m2 sendo 160 m2 de Área construída (sem a piscina)\n\nPiscina: 17 m2 borda infinita, com prainha, hidromassagem, iluminação e aquecimento solar.\n- Garagem p/ 3 carros\n- Sala integrada c/ cozinha\n- 3 Quartos sendo 1 suíte c/ closet\n- 1 Banheiro social\n- Area gourmet c/ churrasqueira a gás Suggar\n- 1 Banheiro área gourmet\n\nObs: ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.\n\n💰Valor= R$ 850.000",
@@ -99,19 +68,7 @@
     "id": "006",
     "titulo": "Casa disponível para venda no bairro Jardim Primavera",
     "imagem": [
-      "imoveis/img/casas/casa-07/01.jpeg",
-      "imoveis/img/casas/casa-07/02.jpeg",
-      "imoveis/img/casas/casa-07/03.jpeg",
-      "imoveis/img/casas/casa-07/04.jpeg",
-      "imoveis/img/casas/casa-07/05.jpeg",
-      "imoveis/img/casas/casa-07/06.jpeg",
-      "imoveis/img/casas/casa-07/07.jpeg",
-      "imoveis/img/casas/casa-07/08.jpeg",
-      "imoveis/img/casas/casa-07/09.jpeg",
-      "imoveis/img/casas/casa-07/10.jpeg",
-      "imoveis/img/casas/casa-07/11.jpeg",
-      "imoveis/img/casas/casa-07/12.jpeg",
-      "imoveis/img/casas/casa-07/13.jpeg"
+      "imoveis/img/006/01.jpeg","imoveis/img/006/02.jpeg","imoveis/img/006/03.jpeg","imoveis/img/006/04.jpeg","imoveis/img/006/05.jpeg","imoveis/img/006/06.jpeg","imoveis/img/006/07.jpeg","imoveis/img/006/08.jpeg","imoveis/img/006/09.jpeg","imoveis/img/006/10.jpeg","imoveis/img/006/11.jpeg","imoveis/img/006/12.jpeg","imoveis/img/006/13.jpeg"
     ],
     "descricao": "Aceitamos qualquer tipo de financiamento incluindo o MINHA CASA MINHA VIDA",
     "legenda": "Composta de:\n\n- 02 dormitórios sendo 01 suíte;\n- 01 banheiro social;\n- 01 sala de estar/jantar;\n- 01 cozinha estilo americana;\n- Piso e revestimento em cerâmica;\n- Luminária em LED.\n- Concertina\n- Área de serviço;\n- Garagem para até 02 carros.\n\nLote: 125 mt²\nCasa: 60 mt²\nValor: R$ 230mil",
@@ -124,7 +81,7 @@
     "id": "007",
     "titulo": "Casa no bairro Planalto",
     "imagem": [
-      "imoveis/img/casas/casa-08/01.jpeg","imoveis/img/casas/casa-08/02.jpeg","imoveis/img/casas/casa-08/03.jpeg","imoveis/img/casas/casa-08/04.jpeg","imoveis/img/casas/casa-08/05.jpeg","imoveis/img/casas/casa-08/06.jpeg","imoveis/img/casas/casa-08/07.jpeg","imoveis/img/casas/casa-08/08.jpeg","imoveis/img/casas/casa-08/09.jpeg","imoveis/img/casas/casa-08/10.jpeg","imoveis/img/casas/casa-08/11.jpeg","imoveis/img/casas/casa-08/12.jpeg","imoveis/img/casas/casa-08/13.jpeg"
+      "imoveis/img/007/01.jpeg","imoveis/img/007/02.jpeg","imoveis/img/007/03.jpeg","imoveis/img/007/04.jpeg","imoveis/img/007/05.jpeg","imoveis/img/007/06.jpeg","imoveis/img/007/07.jpeg","imoveis/img/007/08.jpeg","imoveis/img/007/09.jpeg","imoveis/img/007/10.jpeg","imoveis/img/007/11.jpeg","imoveis/img/007/12.jpeg","imoveis/img/007/13.jpeg"
     ],
     "descricao": "Com acabamento impecável de Alto Padrão",
     "legenda": "Composta de:\n\n- 3 quartos, sendo 1 suíte\n- sala ampla para 2 ambientes\n- Cozinha ampla\n- Banheiro social\n- Área serviço coberta\n- Área gourmet com churrasqueira\n- caixinha de som ambiente no teto\n\n💰 Valor : R$ 720.000,00\n\nSeu imóvel é com a BGB IMÓVEIS, entre em contato conosco e agende seu horário.",
@@ -137,7 +94,7 @@
     "id": "008",
     "titulo": "Edifício Nápolis – Conforto e Lazer Completo!",
     "imagem": [
-      "imoveis/img/apartamentos/apto-01/01.jpeg","imoveis/img/apartamentos/apto-01/02.jpeg","imoveis/img/apartamentos/apto-01/03.jpeg","imoveis/img/apartamentos/apto-01/04.jpeg","imoveis/img/apartamentos/apto-01/05.jpeg","imoveis/img/apartamentos/apto-01/06.jpeg","imoveis/img/apartamentos/apto-01/07.jpeg","imoveis/img/apartamentos/apto-01/08.jpeg","imoveis/img/apartamentos/apto-01/09.jpeg","imoveis/img/apartamentos/apto-01/10.jpeg","imoveis/img/apartamentos/apto-01/11.jpeg","imoveis/img/apartamentos/apto-01/12.jpeg","imoveis/img/apartamentos/apto-01/13.jpeg","imoveis/img/apartamentos/apto-01/14.jpeg","imoveis/img/apartamentos/apto-01/15.jpeg","imoveis/img/apartamentos/apto-01/16.jpeg","imoveis/img/apartamentos/apto-01/17.jpeg"
+      "imoveis/img/008/01.jpeg","imoveis/img/008/02.jpeg","imoveis/img/008/03.jpeg","imoveis/img/008/04.jpeg","imoveis/img/008/05.jpeg","imoveis/img/008/06.jpeg","imoveis/img/008/07.jpeg","imoveis/img/008/08.jpeg","imoveis/img/008/09.jpeg","imoveis/img/008/10.jpeg","imoveis/img/008/11.jpeg","imoveis/img/008/12.jpeg","imoveis/img/008/13.jpeg","imoveis/img/008/14.jpeg","imoveis/img/008/15.jpeg","imoveis/img/008/16.jpeg","imoveis/img/008/17.jpeg"
     ],
     "descricao": "Este incrível apartamento oferece tudo o que você precisa para viver bem!",
     "legenda": "✨Destaques do condomínio:\n\n- Piscina\n- Academia completa\n- Playground\n- Sala de jogos\n- Espaço para eventos e festas\n\nDestaques do apartamento:\n- 3 quartos, sendo 1 suíte\n- Banheiro social\n- Sala ampla com varanda e espaço para churrasco\n- Cozinha com marcenaria planejada e banheiro de serviço\n- Marcenaria completa em todos os ambientes\n\n💰 Valor : 1.050.000,00\n\n📍 Localização privilegiada!\n\nGostou? Entre em contato e agende sua visita! 📲🔑",
@@ -150,11 +107,7 @@
     "id": "009",
     "titulo": "Lote no Barcelona Park",
     "imagem": [
-      "imoveis/img/lotes/lote-01/01.jpeg",
-      "imoveis/img/lotes/lote-01/02.jpeg",
-      "imoveis/img/lotes/lote-01/03.jpeg",
-      "imoveis/img/lotes/lote-01/04.jpeg",
-      "imoveis/img/lotes/lote-01/05.jpeg"
+      "imoveis/img/009/01.jpeg","imoveis/img/009/02.jpeg","imoveis/img/009/03.jpeg","imoveis/img/009/04.jpeg","imoveis/img/009/05.jpeg"
     ],
     "descricao": "295,79 m² | Frente 12.15 | fundo 9.74 | Cumprimento 27",
     "legenda": "Lote espaçoso no Barcelona Park.",
@@ -167,27 +120,7 @@
     "id": "010",
     "titulo": "Casa em condomínio",
     "imagem": [
-      "imoveis/img/casas/casa-09/01.jpeg",
-      "imoveis/img/casas/casa-09/02.jpeg",
-      "imoveis/img/casas/casa-09/03.jpeg",
-      "imoveis/img/casas/casa-09/04.jpeg",
-      "imoveis/img/casas/casa-09/05.jpeg",
-      "imoveis/img/casas/casa-09/06.jpeg",
-      "imoveis/img/casas/casa-09/07.jpeg",
-      "imoveis/img/casas/casa-09/08.jpeg",
-      "imoveis/img/casas/casa-09/09.jpeg",
-      "imoveis/img/casas/casa-09/10.jpeg",
-      "imoveis/img/casas/casa-09/11.jpeg",
-      "imoveis/img/casas/casa-09/12.jpeg",
-      "imoveis/img/casas/casa-09/13.jpeg",
-      "imoveis/img/casas/casa-09/14.jpeg",
-      "imoveis/img/casas/casa-09/15.jpeg",
-      "imoveis/img/casas/casa-09/16.jpeg",
-      "imoveis/img/casas/casa-09/17.jpeg",
-      "imoveis/img/casas/casa-09/18.jpeg",
-      "imoveis/img/casas/casa-09/19.jpeg",
-      "imoveis/img/casas/casa-09/20.jpeg",
-      "imoveis/img/casas/casa-09/21.jpeg"
+      "imoveis/img/010/01.jpeg","imoveis/img/010/02.jpeg","imoveis/img/010/03.jpeg","imoveis/img/010/04.jpeg","imoveis/img/010/05.jpeg","imoveis/img/010/06.jpeg","imoveis/img/010/07.jpeg","imoveis/img/010/08.jpeg","imoveis/img/010/09.jpeg","imoveis/img/010/10.jpeg","imoveis/img/010/11.jpeg","imoveis/img/010/12.jpeg","imoveis/img/010/13.jpeg","imoveis/img/010/14.jpeg","imoveis/img/010/15.jpeg","imoveis/img/010/16.jpeg","imoveis/img/010/17.jpeg","imoveis/img/010/18.jpeg","imoveis/img/010/19.jpeg","imoveis/img/010/20.jpeg","imoveis/img/010/21.jpeg"
     ],
     "descricao": "500 m² de lote, sendo 240 m² de área construída.",
     "legenda": "Andar de baixo\n- sala\n- suíte\n- banheiro social\n- cozinha\n- área gourmet dentro da casa e na área externa com lavabo.\n\nAndar superior\n- 3 quartos sendo uma suíte\n- banheiro social\n\nValor: R$1.700.000",
@@ -200,26 +133,10 @@
     "id": "011",
     "titulo": "Apartamento bairro Todos os Santos. (Edifício Firenze)",
     "imagem": [
-      "imoveis/img/casas/casa-11/01.jpeg",
-      "imoveis/img/casas/casa-11/02.jpeg",
-      "imoveis/img/casas/casa-11/03.jpeg",
-      "imoveis/img/casas/casa-11/04.jpeg",
-      "imoveis/img/casas/casa-11/05.jpeg",
-      "imoveis/img/casas/casa-11/06.jpeg",
-      "imoveis/img/casas/casa-11/07.jpeg",
-      "imoveis/img/casas/casa-11/08.jpeg",
-      "imoveis/img/casas/casa-11/09.jpeg",
-      "imoveis/img/casas/casa-11/10.jpeg",
-      "imoveis/img/casas/casa-11/11.jpeg",
-      "imoveis/img/casas/casa-11/12.jpeg",
-      "imoveis/img/casas/casa-11/13.jpeg",
-      "imoveis/img/casas/casa-11/14.jpeg",
-      "imoveis/img/casas/casa-11/15.jpeg",
-      "imoveis/img/casas/casa-11/16.jpeg",
-      "imoveis/img/casas/casa-11/17.jpeg"
+      "imoveis/img/011/01.jpeg","imoveis/img/011/02.jpeg","imoveis/img/011/03.jpeg","imoveis/img/011/04.jpeg","imoveis/img/011/05.jpeg","imoveis/img/011/06.jpeg","imoveis/img/011/07.jpeg","imoveis/img/011/08.jpeg","imoveis/img/011/09.jpeg","imoveis/img/011/10.jpeg","imoveis/img/011/11.jpeg","imoveis/img/011/12.jpeg","imoveis/img/011/13.jpeg","imoveis/img/011/14.jpeg","imoveis/img/011/15.jpeg","imoveis/img/011/16.jpeg","imoveis/img/011/17.jpeg"
     ],
     "descricao": "3 quartos sendo uma suites",
-    "legenda": "sala, cozinha, marcenaria completa, localização privilegiada ,garagem para 2 carros pequenos. \n\nR$ 470.000,00 \n\nPortaria 24h, area de festas",
+    "legenda": "sala, cozinha, marcenaria completa, localização privilegiada ,garagem para 2 carros pequenos. \n\nR$ 580.000,00 \n\nPortaria 24h, area de festas",
     "preco": "R$ 580.000",
     "tipo": "apartamento",
     "ativo": true,
@@ -229,9 +146,7 @@
     "id": "012",
     "titulo": "Cobertura bairro Ibituruna",
     "imagem": [
-      "imoveis/img/casas/casa-12/01.jpeg",
-      "imoveis/img/casas/casa-12/02.jpeg",
-      "imoveis/img/casas/casa-12/03.jpeg"
+      "imoveis/img/012/01.jpeg","imoveis/img/012/02.jpeg","imoveis/img/012/03.jpeg","imoveis/img/012/04.jpeg","imoveis/img/012/05.jpeg","imoveis/img/012/06.jpeg","imoveis/img/012/07.jpeg","imoveis/img/012/08.jpeg","imoveis/img/012/09.jpeg","imoveis/img/012/10.jpeg","imoveis/img/012/11.jpeg","imoveis/img/012/12.jpeg","imoveis/img/012/13.jpeg","imoveis/img/012/14.jpeg"
     ],
     "descricao": "3 quartos sendo uma suite",
     "legenda": "cozinha americana conjulgada com sala.\n\nR$ 550.000,00",
@@ -244,9 +159,7 @@
     "id": "013",
     "titulo": "Rua 20, nº 41, Residencial Sul Jacarandás",
     "imagem": [
-      "imoveis/img/casas/casa-13/01.jpeg",
-      "imoveis/img/casas/casa-13/02.jpeg",
-      "imoveis/img/casas/casa-13/03.jpeg"
+      "imoveis/img/013/01.jpeg","imoveis/img/013/02.jpeg","imoveis/img/013/03.jpeg","imoveis/img/013/04.jpeg","imoveis/img/013/05.jpeg","imoveis/img/013/06.jpeg","imoveis/img/013/07.jpeg","imoveis/img/013/08.jpeg","imoveis/img/013/09.jpeg","imoveis/img/013/10.jpeg","imoveis/img/013/11.jpeg","imoveis/img/013/12.jpeg","imoveis/img/013/13.jpeg","imoveis/img/013/14.jpeg","imoveis/img/013/15.jpeg","imoveis/img/013/16.jpeg","imoveis/img/013/17.jpeg","imoveis/img/013/18.jpeg","imoveis/img/013/19.jpeg","imoveis/img/013/20.jpeg"
     ],
     "descricao": "Fachada moderna",
     "legenda": "composta por garagem para 04 carros conjugada com espaço gourmet/pia e churrasqueira, sala com pé direito elevado, cozinha, banheiro social, 02 quartos, 01 quarto suíte e área de serviços. \n- Telhado colonial, rebaixamento de gesso, acabamento Top.\n- 200 m2 de lote e 106 m2 de construção.\n\nR$ 450.000,00",
@@ -257,32 +170,132 @@
   },
   {
     "id": "014",
-    "titulo": "Casa no bairro Ibituruna",
+    "titulo": "SOBRADO NO PLANALTO PLANALTO",
     "imagem": [
-      "imoveis/img/casas/casa-14/01.jpeg",
-      "imoveis/img/casas/casa-14/02.jpeg",
-      "imoveis/img/casas/casa-14/03.jpeg",
-      "imoveis/img/casas/casa-14/05.jpeg",
-      "imoveis/img/casas/casa-14/06.jpeg",
-      "imoveis/img/casas/casa-14/07.jpeg",
-      "imoveis/img/casas/casa-14/08.jpeg",
-      "imoveis/img/casas/casa-14/09.jpeg",
-      "imoveis/img/casas/casa-14/10.jpeg",
-      "imoveis/img/casas/casa-14/11.jpeg",
-      "imoveis/img/casas/casa-14/12.jpeg",
-      "imoveis/img/casas/casa-14/13.jpeg",
-      "imoveis/img/casas/casa-14/14.jpeg",
-      "imoveis/img/casas/casa-14/15.jpeg",
-      "imoveis/img/casas/casa-14/16.jpeg",
-      "imoveis/img/casas/casa-14/17.jpeg",
-      "imoveis/img/casas/casa-14/18.jpeg",
-      "imoveis/img/casas/casa-14/19.jpeg"
+      "imoveis/img/014/01.jpeg","imoveis/img/014/02.jpeg","imoveis/img/014/03.jpeg","imoveis/img/014/05.jpeg","imoveis/img/014/06.jpeg","imoveis/img/014/07.jpeg","imoveis/img/014/08.jpeg","imoveis/img/014/09.jpeg","imoveis/img/014/10.jpeg","imoveis/img/014/11.jpeg","imoveis/img/014/12.jpeg","imoveis/img/014/13.jpeg","imoveis/img/014/14.jpeg","imoveis/img/014/15.jpeg","imoveis/img/014/16.jpeg","imoveis/img/014/17.jpeg","imoveis/img/014/18.jpeg","imoveis/img/014/19.jpeg"
     ],
-    "descricao": "SOBRADO TOP – PLANALTO PROXIMO AO CORDEIRO SUPERMERCADOS",
+    "descricao": "PRÓXIMO AO CORDEIRO SUPERMERCADOS",
     "legenda": "Térreo: garagem para 02 carros conjugada com espaço gourmet/pia e churrasqueira, sala/cozinha, banheiro, 01 quarto e área de serviços. – 1º Pav: 01 quarto com sacada, banheiro social e 01 quarto suíte. Telhado metálico, acabamento de 1ª. 99 m2 de construção e 90 m2 de terreno. R$ 380.000,00.",
     "preco": "R$ 380.000",
     "tipo": "casa",
     "ativo": true,
-    "bairro": "PLANALTO"
+    "bairro": "Planalto"
+  },
+  {
+    "id": "015",
+    "titulo": "Apartamento à venda no Augusta Mota",
+    "imagem": [
+      "imoveis/img/015/01.jpeg","imoveis/img/015/02.jpeg","imoveis/img/015/03.jpeg", "imoveis/img/015/04.jpeg", "imoveis/img/015/05.jpeg","imoveis/img/015/06.jpeg","imoveis/img/015/07.jpeg","imoveis/img/015/08.jpeg"
+    ],
+    "descricao": "Amplo, iluminado e com um toque de sofisticação!",
+    "legenda": "Esse apartamento vai te conquistar com:\n\n• Uma sala espaçosa com janela de vidro e uma vista de tirar o fôlego\n• Cozinha linda, moderna e funcional\n• 3 quartos, sendo 1 suíte com closet\n\nTudo isso em uma localização privilegiada, perfeita pra quem busca conforto e praticidade no dia a dia!",
+    "preco": "R$ 550.000",
+    "tipo": "apartamento",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "016",
+    "titulo": "LOTE NO SANTO EXPEDITO",
+    "imagem": [
+      "imoveis/img/016/01.jpeg","imoveis/img/016/02.jpeg","imoveis/img/016/03.jpeg", "imoveis/img/016/04.jpeg", "imoveis/img/016/05.jpeg","imoveis/img/016/06.jpeg","imoveis/img/016/07.jpeg","imoveis/img/016/08.jpeg","imoveis/img/016/09.jpeg"
+    ],
+    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
+    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
+    "preco": "R$ 192.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "017",
+    "titulo": "Três quartos (todos com pré - disposição para ar condicionado)",
+    "imagem": [
+      "imoveis/img/017/01.jpeg","imoveis/img/017/02.jpeg","imoveis/img/017/03.jpeg", "imoveis/img/017/04.jpeg", "imoveis/img/017/05.jpeg","imoveis/img/017/06.jpeg","imoveis/img/017/07.jpeg","imoveis/img/017/08.jpeg","imoveis/img/017/09.jpeg"
+    ],
+    "descricao": "Sendo um suíte com closet",
+    "legenda": "Três quartos (todos com pré - disposição para ar condicionado)\nSendo um suíte com closet\n\nSala pé direito alto \nCom pele de vidro \n\nCozinha espaçosa \ncom bancadas em granito preto São Gabriel \nCasinha de gás \n\nBanheiros com lavatórios e nicho em porcelanato \nCom box em alumínio preto \n\nTodo o piso e revestimento das paredes de banheiros,\nCozinha e quintal em porcelanato \n\nIluminação moderna \nToda em led\ncom pendente na sala \nLuminárias nas sancas e muros \n\nÁrea gourmet \n\nDucha com acabamento em porcelanato \n\nGaragem coberta para 2 dois carros \n+ 2 sem cobertura \n\nÁrea verde ( jardim ) \nFachada moderna \nÁrea do terreno 200m²\nÁrea construída aproximadamente 135m²\nDocumentação pronta \n\nValor R$ 500.000,00",
+    "preco": "R$ 500.000",
+    "tipo": "casa",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "018",
+    "titulo": "Imóvel de alto padrão",
+    "imagem": [
+      "imoveis/img/018/01.jpeg","imoveis/img/018/02.jpeg","imoveis/img/018/03.jpeg", "imoveis/img/018/04.jpeg", "imoveis/img/018/05.jpeg","imoveis/img/018/06.jpeg","imoveis/img/018/07.jpeg","imoveis/img/018/08.jpeg","imoveis/img/018/09.jpeg"
+    ],
+    "descricao": "Casa a venda no bairro Planalto",
+    "legenda": "- 3 quartos sendo um suite\n- Porta de entrada ACM\n- Sala ampla dois ambientes\n- Cozinha ampla\n- Banho social\n- Área de cervico coberta\n- Área gourmet ampla com churrasqueira e balcão\n- Garagem coberta para dois veículos\n- Imóvel com corredores laterais\n- Piso externo\n- Ducha\n- Caixinha de som ambiente no teto\n\nR$ 720.000,00",
+    "preco": "R$ 192.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Planalto"
+  },
+  {
+    "id": "019",
+    "titulo": "Oportunidade Imperdível: Linda Casa à Venda no bairro Ibiturna!",
+    "imagem": [
+      "imoveis/img/019/01.jpeg","imoveis/img/019/02.jpeg","imoveis/img/019/03.jpeg", "imoveis/img/019/04.jpeg", "imoveis/img/019/05.jpeg","imoveis/img/019/06.jpeg","imoveis/img/019/07.jpeg","imoveis/img/019/08.jpeg","imoveis/img/019/09.jpeg"
+    ],
+    "descricao": "Descubra esta magnífica residência, situada em um terreno de 240 m² e com 220 m² de área construída, projetada para proporcionar conforto e elegância.",
+    "legenda": "• 4 Suítes Amplas: Todas muito bem iluminadas, oferecendo privacidade e aconchego.\n• Acabamento de Alto Padrão: Materiais de qualidade que refletem sofisticação em cada detalhe.\n• Sala com Pé Direito Duplo: Um espaço arejado e imponente, perfeito para receber visitas.\n• Cozinha Integrada à Área Gourmet: Ideal para momentos de descontração e entretenimento com amigos e família.\n• Lavabo: Praticidade para as visitas.\n• Piscina: Um convite ao relaxamento e diversão.\n• Área de Serviço: Funcional e bem planejada.\n• Garagem Espaciosa: Com capacidade para até quatro carros, oferecendo comodidade para você e sua família.\n\nValor 1.250.000,00",
+    "preco": "R$ 1.250.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "020",
+    "titulo": "LOTE NO SANTO EXPEDITO",
+    "imagem": [
+      "imoveis/img/020/01.jpeg","imoveis/img/020/02.jpeg","imoveis/img/020/03.jpeg", "imoveis/img/020/04.jpeg", "imoveis/img/020/05.jpeg","imoveis/img/020/06.jpeg","imoveis/img/020/07.jpeg","imoveis/img/020/08.jpeg","imoveis/img/020/09.jpeg"
+    ],
+    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
+    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
+    "preco": "R$ 192.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "021",
+    "titulo": "LOTE NO SANTO EXPEDITO",
+    "imagem": [
+      "imoveis/img/021/01.jpeg","imoveis/img/021/02.jpeg","imoveis/img/021/03.jpeg", "imoveis/img/021/04.jpeg", "imoveis/img/021/05.jpeg","imoveis/img/021/06.jpeg","imoveis/img/021/07.jpeg","imoveis/img/021/08.jpeg","imoveis/img/021/09.jpeg"
+    ],
+    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
+    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
+    "preco": "R$ 192.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "022",
+    "titulo": "LOTE NO SANTO EXPEDITO",
+    "imagem": [
+      "imoveis/img/022/01.jpeg","imoveis/img/022/02.jpeg","imoveis/img/022/03.jpeg", "imoveis/img/022/04.jpeg", "imoveis/img/022/05.jpeg","imoveis/img/022/06.jpeg","imoveis/img/022/07.jpeg","imoveis/img/022/08.jpeg","imoveis/img/022/09.jpeg"
+    ],
+    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
+    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
+    "preco": "R$ 192.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Augusta Mota"
+  },
+  {
+    "id": "023",
+    "titulo": "LOTE NO SANTO EXPEDITO",
+    "imagem": [
+      "imoveis/img/023/01.jpeg","imoveis/img/023/02.jpeg","imoveis/img/023/03.jpeg", "imoveis/img/023/04.jpeg", "imoveis/img/023/05.jpeg","imoveis/img/023/06.jpeg","imoveis/img/023/07.jpeg","imoveis/img/023/08.jpeg","imoveis/img/023/09.jpeg"
+    ],
+    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
+    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
+    "preco": "R$ 192.000",
+    "tipo": "lote",
+    "ativo": true,
+    "bairro": "Augusta Mota"
   }
 ]
