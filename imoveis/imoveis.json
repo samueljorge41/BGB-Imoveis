@@ -165,7 +165,7 @@
   },
   {
     "id": "010",
-    "titulo": "Casa em condomínio ",
+    "titulo": "Casa em condomínio",
     "imagem": [
       "imoveis/img/casas/casa-09/01.jpeg",
       "imoveis/img/casas/casa-09/02.jpeg",
@@ -220,8 +220,8 @@
     ],
     "descricao": "3 quartos sendo uma suites",
     "legenda": "sala, cozinha, marcenaria completa, localização privilegiada ,garagem para 2 carros pequenos. \n\nR$ 470.000,00 \n\nPortaria 24h, area de festas",
-    "preco": "R$ 450.000",
-    "tipo": "casa",
+    "preco": "R$ 580.000",
+    "tipo": "apartamento",
     "ativo": true,
     "bairro": "Edifício Firenze, Todos os Santos"
   },
