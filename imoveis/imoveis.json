@@ -151,7 +151,7 @@
     "descricao": "3 quartos sendo uma suite",
     "legenda": "cozinha americana conjulgada com sala.\n\nR$ 550.000,00",
     "preco": "R$ 550.000",
-    "tipo": "casa",
+    "tipo": "cobertura",
     "ativo": true,
     "bairro": "Ibituruna"
   },
@@ -205,7 +205,7 @@
     "preco": "R$ 192.000",
     "tipo": "lote",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": "Santo Expedito"
   },
   {
     "id": "017",
@@ -218,7 +218,7 @@
     "preco": "R$ 500.000",
     "tipo": "casa",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": ""
   },
   {
     "id": "018",
@@ -228,74 +228,74 @@
     ],
     "descricao": "Casa a venda no bairro Planalto",
     "legenda": "- 3 quartos sendo um suite\n- Porta de entrada ACM\n- Sala ampla dois ambientes\n- Cozinha ampla\n- Banho social\n- Área de cervico coberta\n- Área gourmet ampla com churrasqueira e balcão\n- Garagem coberta para dois veículos\n- Imóvel com corredores laterais\n- Piso externo\n- Ducha\n- Caixinha de som ambiente no teto\n\nR$ 720.000,00",
-    "preco": "R$ 192.000",
-    "tipo": "lote",
+    "preco": "R$ 720.000",
+    "tipo": "casa",
     "ativo": true,
     "bairro": "Planalto"
   },
   {
     "id": "019",
-    "titulo": "Oportunidade Imperdível: Linda Casa à Venda no bairro Ibiturna!",
+    "titulo": "Oportunidade Imperdível: Linda Casa à Venda no bairro Ibituruna!",
     "imagem": [
       "imoveis/img/019/01.jpeg","imoveis/img/019/02.jpeg","imoveis/img/019/03.jpeg", "imoveis/img/019/04.jpeg", "imoveis/img/019/05.jpeg","imoveis/img/019/06.jpeg","imoveis/img/019/07.jpeg","imoveis/img/019/08.jpeg","imoveis/img/019/09.jpeg"
     ],
     "descricao": "Descubra esta magnífica residência, situada em um terreno de 240 m² e com 220 m² de área construída, projetada para proporcionar conforto e elegância.",
     "legenda": "• 4 Suítes Amplas: Todas muito bem iluminadas, oferecendo privacidade e aconchego.\n• Acabamento de Alto Padrão: Materiais de qualidade que refletem sofisticação em cada detalhe.\n• Sala com Pé Direito Duplo: Um espaço arejado e imponente, perfeito para receber visitas.\n• Cozinha Integrada à Área Gourmet: Ideal para momentos de descontração e entretenimento com amigos e família.\n• Lavabo: Praticidade para as visitas.\n• Piscina: Um convite ao relaxamento e diversão.\n• Área de Serviço: Funcional e bem planejada.\n• Garagem Espaciosa: Com capacidade para até quatro carros, oferecendo comodidade para você e sua família.\n\nValor 1.250.000,00",
     "preco": "R$ 1.250.000",
-    "tipo": "lote",
+    "tipo": "casa",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": "Ibituruna"
   },
   {
     "id": "020",
-    "titulo": "LOTE NO SANTO EXPEDITO",
+    "titulo": "Casa bairro Ibitutuna",
     "imagem": [
       "imoveis/img/020/01.jpeg","imoveis/img/020/02.jpeg","imoveis/img/020/03.jpeg", "imoveis/img/020/04.jpeg", "imoveis/img/020/05.jpeg","imoveis/img/020/06.jpeg","imoveis/img/020/07.jpeg","imoveis/img/020/08.jpeg","imoveis/img/020/09.jpeg"
     ],
     "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
-    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
-    "preco": "R$ 192.000",
-    "tipo": "lote",
+    "legenda": "- 3 suites\n- sala ampla\n- cozinha confortável\n- área de lazer com churrasqueira\n-piscina e lavabo.\n\nR$950.000,00",
+    "preco": "R$ 950.000",
+    "tipo": "casa",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": "Ibituruna"
   },
   {
     "id": "021",
-    "titulo": "LOTE NO SANTO EXPEDITO",
+    "titulo": "Casa de Alto padrão no condomínio",
     "imagem": [
       "imoveis/img/021/01.jpeg","imoveis/img/021/02.jpeg","imoveis/img/021/03.jpeg", "imoveis/img/021/04.jpeg", "imoveis/img/021/05.jpeg","imoveis/img/021/06.jpeg","imoveis/img/021/07.jpeg","imoveis/img/021/08.jpeg","imoveis/img/021/09.jpeg","imoveis/img/018/10.jpeg","imoveis/img/018/11.jpeg","imoveis/img/018/12.jpeg","imoveis/img/018/13.jpeg"
     ],
-    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
-    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
-    "preco": "R$ 192.000",
-    "tipo": "lote",
+    "descricao": "Diamond com Jacuzzi e com vista para Serra do Mel",
+    "legenda": "Lote 340 m2 sendo 190 m2 de área construída\nVista de tirar o fôlego pra Serra do Mel - 3 quartos,1 suíte e 2 semi suíte\n- Sala ampla integrada com cozinha - Área gourmet com Jacuzzi\n- Lavabo\n\nSe você busca uma casa com segurança, conforto e exclusividade em um condomínio, esta pode ser a escolha perfeita para você!\n\nEntre em contato conosco para conhecer de perto este imóvel.\n\n$Valor :R$1.250.000,00",
+    "preco": "R$ 1.250.000",
+    "tipo": "casa",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": "Condomínio"
   },
   {
     "id": "022",
-    "titulo": "LOTE NO SANTO EXPEDITO",
+    "titulo": "Apartamento funcional e clean",
     "imagem": [
       "imoveis/img/022/01.jpeg","imoveis/img/022/02.jpeg","imoveis/img/022/03.jpeg", "imoveis/img/022/04.jpeg", "imoveis/img/022/05.jpeg","imoveis/img/022/06.jpeg","imoveis/img/022/07.jpeg","imoveis/img/022/08.jpeg","imoveis/img/022/09.jpeg","imoveis/img/022/10.jpeg","imoveis/img/022/11.jpeg","imoveis/img/022/12.jpeg","imoveis/img/022/13.jpeg","imoveis/img/022/14.jpeg","imoveis/img/022/15.jpeg","imoveis/img/022/16.jpeg"
     ],
-    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
-    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
-    "preco": "R$ 192.000",
-    "tipo": "lote",
+    "descricao": "Disponível para venda no bairro Todos os Santos",
+    "legenda": "- 2 Quartos, sendo 1 suíte\n- Banheiro social\n- Cozinha Americana - Sala esta Jantar\n- Lavanderia\n\nSe você procura um lar prático, funcional, clean e bem localizado.\n\nMe chame aqui para conhecer o seu novo lar\nValor R$ 375.000,00",
+    "preco": "R$ 375.000",
+    "tipo": "apartamento",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": "Todos os Santos"
   },
   {
     "id": "023",
-    "titulo": "LOTE NO SANTO EXPEDITO",
+    "titulo": "Apartamento de alto padrão no Edifício Milão",
     "imagem": [
       "imoveis/img/023/01.jpeg","imoveis/img/023/02.jpeg","imoveis/img/023/03.jpeg", "imoveis/img/023/04.jpeg", "imoveis/img/023/05.jpeg","imoveis/img/023/06.jpeg","imoveis/img/023/07.jpeg","imoveis/img/023/08.jpeg","imoveis/img/023/09.jpeg","imoveis/img/018/10.jpeg","imoveis/img/018/11.jpeg","imoveis/img/018/12.jpeg"
     ],
-    "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
-    "legenda": "Zoneamento ZCI sendo possível edificação de Prédio sem recuo frontal ou lateral.\n\nRua Raimundo Mangabeira, Bairro Santo Expedito / Vila Guilhermina.\n\nEm frente ao Scorpions Bar \n\nR$ 192.000,00 ",
-    "preco": "R$ 192.000",
-    "tipo": "lote",
+    "descricao": "120 m² privativos e 2 vagas paralelas com escritura de 148 m². Ideal para quem busca conforto, espaço e sofisticação.",
+    "legenda": "Compõe por sala pra 2 ambientes\nvaranda gourmet\ncozinha\nárea de serviço completa com banheiro\n3 quartos sendo uma suite com closet e um banheiro social.\nArmário planejando de alto padrão em todo apartamento\n100% climatizado com ar condicionado de 24 mil btus na sala e ar condicionado em todos os quartos\n\n💰 950.000,00",
+    "preco": "R$ 950.000",
+    "tipo": "apartamento",
     "ativo": true,
-    "bairro": "Augusta Mota"
+    "bairro": "Edifício Milão"
   }
 ]
