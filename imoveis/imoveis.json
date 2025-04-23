@@ -97,8 +97,8 @@
       "imoveis/img/008/01.jpeg","imoveis/img/008/02.jpeg","imoveis/img/008/03.jpeg","imoveis/img/008/04.jpeg","imoveis/img/008/05.jpeg","imoveis/img/008/06.jpeg","imoveis/img/008/07.jpeg","imoveis/img/008/08.jpeg","imoveis/img/008/09.jpeg","imoveis/img/008/10.jpeg","imoveis/img/008/11.jpeg","imoveis/img/008/12.jpeg","imoveis/img/008/13.jpeg","imoveis/img/008/14.jpeg","imoveis/img/008/15.jpeg","imoveis/img/008/16.jpeg","imoveis/img/008/17.jpeg"
     ],
     "descricao": "Este incrível apartamento oferece tudo o que você precisa para viver bem!",
-    "legenda": "✨Destaques do condomínio:\n\n- Piscina\n- Academia completa\n- Playground\n- Sala de jogos\n- Espaço para eventos e festas\n\nDestaques do apartamento:\n- 3 quartos, sendo 1 suíte\n- Banheiro social\n- Sala ampla com varanda e espaço para churrasco\n- Cozinha com marcenaria planejada e banheiro de serviço\n- Marcenaria completa em todos os ambientes\n\n💰 Valor : 1.050.000,00\n\n📍 Localização privilegiada!\n\nGostou? Entre em contato e agende sua visita! 📲🔑",
-    "preco": "R$ 1.050.000",
+    "legenda": "✨Destaques do condomínio:\n\n- Piscina\n- Academia completa\n- Playground\n- Sala de jogos\n- Espaço para eventos e festas\n\nDestaques do apartamento:\n- 3 quartos, sendo 1 suíte\n- Banheiro social\n- Sala ampla com varanda e espaço para churrasco\n- Cozinha com marcenaria planejada e banheiro de serviço\n- Marcenaria completa em todos os ambientes\n\n💰 Valor : 950.000,00\n\n📍 Localização privilegiada!\n\nGostou? Entre em contato e agende sua visita! 📲🔑",
+    "preco": "R$ 950.000",
     "tipo": "apartamento",
     "ativo": true,
     "bairro": "Edifício Nápolis"
@@ -170,7 +170,7 @@
   },
   {
     "id": "014",
-    "titulo": "SOBRADO NO PLANALTO PLANALTO",
+    "titulo": "SOBRADO NO PLANALTO",
     "imagem": [
       "imoveis/img/014/01.jpeg","imoveis/img/014/02.jpeg","imoveis/img/014/03.jpeg","imoveis/img/014/05.jpeg","imoveis/img/014/06.jpeg","imoveis/img/014/07.jpeg","imoveis/img/014/08.jpeg","imoveis/img/014/09.jpeg","imoveis/img/014/10.jpeg","imoveis/img/014/11.jpeg","imoveis/img/014/12.jpeg","imoveis/img/014/13.jpeg","imoveis/img/014/14.jpeg","imoveis/img/014/15.jpeg","imoveis/img/014/16.jpeg","imoveis/img/014/17.jpeg","imoveis/img/014/18.jpeg","imoveis/img/014/19.jpeg"
     ],
