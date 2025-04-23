@@ -44,6 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     div.innerHTML = `
                         <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir" loading="lazy">
                         <h2>${imovel.titulo}</h2>
+                        <p>Ref.: ${imovel.id}</p>
                         <p>${imovel.descricao}</p>
                         <div style="display: flex; justify-content: space-between; align-items: center;">
                             <p style="margin: 0;">${imovel.preco}</p>

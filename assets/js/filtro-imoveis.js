@@ -68,6 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir">
                         <h2 style="font-weight: bold;">${imovel.titulo}</h2>
                         <p>${imovel.descricao}</p>
+                        <p class="ref-id">Ref.: ${imovel.id}</p>
                         <div style="display: flex; justify-content: space-between; align-items: center;">
                             <p style="margin: 0;">${imovel.preco}</p>
                             <button class="btn-detalhes">Mais detalhes</button>
@@ -159,6 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <img src="${imovel.imagem[0]}" alt="${imovel.titulo}" class="img-expandir">
                         <h2 style="font-weight: bold;">${imovel.titulo}</h2>
                         <p>${imovel.descricao}</p>
+                        <p class="ref-id">Ref.: ${imovel.id}</p>
                         <div style="display: flex; justify-content: space-between; align-items: center;">
                             <p style="margin: 0;">${imovel.preco}</p>
                             <button class="btn-detalhes">Mais detalhes</button>

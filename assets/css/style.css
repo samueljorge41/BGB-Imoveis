@@ -259,6 +259,12 @@ body.modal-open {
     text-align: left;
 }
 
+.ref-id {
+    font-size: 0.85rem !important;
+    color: #888 !important;
+    margin-top: 0px !important;
+    margin-bottom: 5px !important;
+}
 
 .card img {
     height: 300px; /* Aumenta a altura fixa para 200px */
