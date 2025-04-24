@@ -263,7 +263,7 @@
     "id": "021",
     "titulo": "Casa de Alto padrão no condomínio",
     "imagem": [
-      "imoveis/img/021/01.jpeg","imoveis/img/021/02.jpeg","imoveis/img/021/03.jpeg", "imoveis/img/021/04.jpeg", "imoveis/img/021/05.jpeg","imoveis/img/021/06.jpeg","imoveis/img/021/07.jpeg","imoveis/img/021/08.jpeg","imoveis/img/021/09.jpeg","imoveis/img/018/10.jpeg","imoveis/img/018/11.jpeg","imoveis/img/018/12.jpeg","imoveis/img/018/13.jpeg"
+      "imoveis/img/021/01.jpeg","imoveis/img/021/02.jpeg","imoveis/img/021/03.jpeg", "imoveis/img/021/04.jpeg", "imoveis/img/021/05.jpeg","imoveis/img/021/06.jpeg","imoveis/img/021/07.jpeg","imoveis/img/021/08.jpeg","imoveis/img/021/09.jpeg","imoveis/img/021/10.jpeg","imoveis/img/021/11.jpeg","imoveis/img/021/12.jpeg","imoveis/img/021/13.jpeg"
     ],
     "descricao": "Diamond com Jacuzzi e com vista para Serra do Mel",
     "legenda": "Lote 340 m2 sendo 190 m2 de área construída\nVista de tirar o fôlego pra Serra do Mel - 3 quartos,1 suíte e 2 semi suíte\n- Sala ampla integrada com cozinha - Área gourmet com Jacuzzi\n- Lavabo\n\nSe você busca uma casa com segurança, conforto e exclusividade em um condomínio, esta pode ser a escolha perfeita para você!\n\nEntre em contato conosco para conhecer de perto este imóvel.\n\n$Valor :R$1.250.000,00",
@@ -289,7 +289,7 @@
     "id": "023",
     "titulo": "Apartamento de alto padrão no Edifício Milão",
     "imagem": [
-      "imoveis/img/023/01.jpeg","imoveis/img/023/02.jpeg","imoveis/img/023/03.jpeg", "imoveis/img/023/04.jpeg", "imoveis/img/023/05.jpeg","imoveis/img/023/06.jpeg","imoveis/img/023/07.jpeg","imoveis/img/023/08.jpeg","imoveis/img/023/09.jpeg","imoveis/img/018/10.jpeg","imoveis/img/018/11.jpeg","imoveis/img/018/12.jpeg"
+      "imoveis/img/023/01.jpeg","imoveis/img/023/02.jpeg","imoveis/img/023/03.jpeg", "imoveis/img/023/04.jpeg", "imoveis/img/023/05.jpeg","imoveis/img/023/06.jpeg","imoveis/img/023/07.jpeg","imoveis/img/023/08.jpeg","imoveis/img/023/09.jpeg","imoveis/img/023/10.jpeg","imoveis/img/023/11.jpeg","imoveis/img/023/12.jpeg"
     ],
     "descricao": "120 m² privativos e 2 vagas paralelas com escritura de 148 m². Ideal para quem busca conforto, espaço e sofisticação.",
     "legenda": "Compõe por sala pra 2 ambientes\nvaranda gourmet\ncozinha\nárea de serviço completa com banheiro\n3 quartos sendo uma suite com closet e um banheiro social.\nArmário planejando de alto padrão em todo apartamento\n100% climatizado com ar condicionado de 24 mil btus na sala e ar condicionado em todos os quartos\n\n💰 950.000,00",
@@ -297,5 +297,18 @@
     "tipo": "apartamento",
     "ativo": true,
     "bairro": "Edifício Milão"
+  },
+  {
+    "id": "024",
+    "titulo": "Apartamento disponível em ótima localização",
+    "imagem": [
+      "imoveis/img/024/01.jpeg","imoveis/img/024/02.jpeg","imoveis/img/024/03.jpeg", "imoveis/img/024/04.jpeg", "imoveis/img/024/05.jpeg","imoveis/img/024/06.jpeg","imoveis/img/024/07.jpeg","imoveis/img/024/08.jpeg","imoveis/img/024/09.jpeg","imoveis/img/024/10.jpeg","imoveis/img/024/11.jpeg","imoveis/img/024/12.jpeg"
+    ],
+    "descricao": "Próximo ao centro!",
+    "legenda": "Com um projeto moderno e funcional, este imóvel conta com:\n• 3 quartos, sendo 1 suíte com ampla janela de vidro que proporciona excelente\niluminação natural;\n• Sala dois ambientes, integrada à copa e à cozinha\n• Bancada em mármore\n• Acabamento em porcelanato;\n• Área de serviço separada\n• Pré-disposição para ar-condicionado na sala e nos quartos\n• Tubulação para água quente e gás\n• Elevador\n• 2 vagas de garagem.\n\nValor: R$ 495.000,00",
+    "preco": "R$ 495.000,00",
+    "tipo": "apartamento",
+    "ativo": true,
+    "bairro": ""
   }
 ]
