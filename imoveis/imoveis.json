@@ -322,7 +322,7 @@
       "preco": "R$ 285.000,00",
       "tipo": "lote",
       "ativo": true,
-      "bairro": ""
+      "bairro": "condomínio Terras Alpha"
     },
     {
       "id": "026",
@@ -335,7 +335,7 @@
       "preco": "A partir de R$ 257.887,00",
       "tipo": "lote",
       "ativo": true,
-      "bairro": ""
+      "bairro": "condomínio Diamond"
     },
     {
       "id": "027",
@@ -348,7 +348,7 @@
       "preco": "R$ 880.000,00",
       "tipo": "lote",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Condomínio GranRoyalle"
     },
     {
       "id": "028",
@@ -364,7 +364,7 @@
       "preco": "R$ 830.000,00",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Edifício Catalunha"
     },
     {
       "id": "029",
@@ -382,7 +382,7 @@
       "preco": "R$ 600.000,00",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Todos os Santos"
     },
     {
       "id": "030",
@@ -393,7 +393,7 @@
       "preco": "R$ 410.000,00",
       "tipo": "lote",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Condomínio Terras Alpha"
     },
     {
       "id": "031",
@@ -404,7 +404,7 @@
       "preco": "R$ 376.950,00",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "centro"
     },
     {
       "id": "032",
@@ -419,7 +419,7 @@
       "preco": "R$ 378.000,00",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Quadri"
     },
     {
       "id": "033",
@@ -430,7 +430,7 @@
       "preco": "A partir de R$ 490.000,00",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Ed. São Conrado"
     },
     {
       "id": "034",
@@ -446,11 +446,11 @@
       "preco": "Sob consulta",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Jardim Panorama"
     },
     {
       "id": "035",
-      "titulo": "Quadriplex com vista para a Serra do Mel",
+      "titulo": "Quadriplex com vista panorâmica da cidade",
       "imagem": [
         "imoveis/img/035/01.jpeg","imoveis/img/035/02.jpeg","imoveis/img/035/03.jpeg",
         "imoveis/img/035/04.jpeg","imoveis/img/035/05.jpeg","imoveis/img/035/06.jpeg",
@@ -466,7 +466,7 @@
       "preco": "Sob consulta",
       "tipo": "casa",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Serra do Mel"
     },
     {
       "id": "036",
@@ -477,7 +477,7 @@
       "preco": "R$ 686.000,00",
       "tipo": "apartamento",
       "ativo": true,
-      "bairro": ""
+      "bairro": "Augusta Mota"
     }
   ]
   
