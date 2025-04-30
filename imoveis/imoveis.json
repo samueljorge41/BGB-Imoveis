@@ -305,8 +305,8 @@
       "imoveis/img/024/01.jpeg","imoveis/img/024/02.jpeg","imoveis/img/024/03.jpeg", "imoveis/img/024/04.jpeg", "imoveis/img/024/05.jpeg","imoveis/img/024/06.jpeg","imoveis/img/024/07.jpeg","imoveis/img/024/08.jpeg","imoveis/img/024/09.jpeg","imoveis/img/024/10.jpeg","imoveis/img/024/11.jpeg","imoveis/img/024/12.jpeg"
     ],
     "descricao": "Próximo ao centro!",
-    "legenda": "Com um projeto moderno e funcional, este imóvel conta com:\n• 3 quartos, sendo 1 suíte com ampla janela de vidro que proporciona excelente\niluminação natural;\n• Sala dois ambientes, integrada à copa e à cozinha\n• Bancada em mármore\n• Acabamento em porcelanato;\n• Área de serviço separada\n• Pré-disposição para ar-condicionado na sala e nos quartos\n• Tubulação para água quente e gás\n• Elevador\n• 2 vagas de garagem.\n\nValor: R$ 495.000,00",
-    "preco": "R$ 495.000,00",
+    "legenda": "Com um projeto moderno e funcional, este imóvel conta com:\n• 3 quartos, sendo 1 suíte com ampla janela de vidro que proporciona excelente\niluminação natural;\n• Sala dois ambientes, integrada à copa e à cozinha\n• Bancada em mármore\n• Acabamento em porcelanato;\n• Área de serviço separada\n• Pré-disposição para ar-condicionado na sala e nos quartos\n• Tubulação para água quente e gás\n• Elevador\n• 2 vagas de garagem.\n\nValor: R$ 422.000,00",
+    "preco": "R$ 422.000",
     "tipo": "apartamento",
     "ativo": true,
     "bairro": ""
@@ -319,7 +319,7 @@
       ],
       "descricao": "Lote no condomínio Terras Alpha",
       "legenda": "Excelente oportunidade para investir ou construir seu lar.\n\n💰 Valor: R$ 285.000,00",
-      "preco": "R$ 285.000,00",
+      "preco": "R$ 285.000",
       "tipo": "lote",
       "ativo": true,
       "bairro": "condomínio Terras Alpha"
@@ -332,7 +332,7 @@
       ],
       "descricao": "Disponíveis terrenos com metragens variadas no condomínio Diamond.",
       "legenda": "Opções de terrenos:\n• 264 m² = R$ 257.887,00\n• 348 m² = R$ 339.787,00\n• 282 m² = R$ 278.362,00",
-      "preco": "A partir de R$ 257.887,00",
+      "preco": "A partir de R$ 257.887",
       "tipo": "lote",
       "ativo": true,
       "bairro": "condomínio Diamond"
@@ -345,7 +345,7 @@
       ],
       "descricao": "Terreno amplo em condomínio fechado de alto padrão.",
       "legenda": "765 m² disponíveis para construir com liberdade e segurança.\n\n💰 Valor: R$ 880.000,00",
-      "preco": "R$ 880.000,00",
+      "preco": "R$ 880.000",
       "tipo": "lote",
       "ativo": true,
       "bairro": "Condomínio GranRoyalle"
@@ -361,7 +361,7 @@
       ],
       "descricao": "Apartamento no bairro Todos os Santos com estrutura de lazer e ótimo acabamento.",
       "legenda": "📐 107m²\n• 3 quartos (1 suíte)\n• Sala ampla e iluminada\n• Cozinha funcional\n• Banheiro social\n• Área de lazer com piscina, espaço gourmet, salão de festas e portaria 24h\n\n💰 Valor: R$ 830.000,00",
-      "preco": "R$ 830.000,00",
+      "preco": "R$ 830.000",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Edifício Catalunha"
@@ -379,7 +379,7 @@
       ],
       "descricao": "Oportunidade em um dos melhores bairros de Montes Claros!",
       "legenda": "• 3 quartos (1 suíte com varandinha)\n• Cozinha\n• 2 salas integradas\n• Elevador\n• 2 vagas na garagem\n\n💰 Valor: R$ 600.000,00",
-      "preco": "R$ 600.000,00",
+      "preco": "R$ 600.000",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Todos os Santos"
@@ -390,7 +390,7 @@
       "imagem": ["imoveis/img/030/01.jpeg"],
       "descricao": "Terreno com 455,14 m² para construir com conforto.",
       "legenda": "Lote ideal para projetos amplos e personalizados.\n\n💰 Valor: R$ 410.000,00",
-      "preco": "R$ 410.000,00",
+      "preco": "R$ 410.000",
       "tipo": "lote",
       "ativo": true,
       "bairro": "Condomínio Terras Alpha"
@@ -401,7 +401,7 @@
       "imagem": ["imoveis/img/031/01.jpeg"],
       "descricao": "Opções com 2 a 3 quartos em localização privilegiada.",
       "legenda": "• Plantas com suíte\n• Com elevador\n\n💰 A partir de R$ 376.950,00",
-      "preco": "R$ 376.950,00",
+      "preco": "R$ 376.950",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "centro"
@@ -416,7 +416,7 @@
       ],
       "descricao": "Apartamento moderno com excelente área externa.",
       "legenda": "• Área privativa: 89,25 m²\n• Terraço: 32,49 m²\n• Garagem: 12,5 m²\n\nEntrega: 07/2026\n\n💰 Valor: R$ 378.000,00",
-      "preco": "R$ 378.000,00",
+      "preco": "R$ 378.000",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Quadri"
@@ -427,7 +427,7 @@
       "imagem": ["imoveis/img/033/01.jpeg", "imoveis/img/033/02.jpeg"],
       "descricao": "Disponíveis opções de cobertura e apartamento com ótimo acabamento.",
       "legenda": "• Cobertura: 3 quartos (1 suíte), 2 vagas — R$ 888.000,00\n• Apto: 3 quartos (1 suíte), 1 vaga — R$ 490.000,00",
-      "preco": "A partir de R$ 490.000,00",
+      "preco": "A partir de R$ 490.000",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Ed. São Conrado"
@@ -474,7 +474,7 @@
       "imagem": ["imoveis/img/036/01.jpeg"],
       "descricao": "Design contemporâneo e estrutura completa no bairro Augusta Mota.",
       "legenda": "• 3 quartos (1 suíte)\n• Sala ampla, varanda na sala e quartos\n• Área de lazer com salão de festas, academia, brinquedoteca e piscina\n\n💰 Valor: R$ 686.000,00",
-      "preco": "R$ 686.000,00",
+      "preco": "R$ 686.000",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Augusta Mota"
