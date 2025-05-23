@@ -478,6 +478,106 @@
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Augusta Mota"
-    }
+    },
+    {
+      "id": "037",
+      "titulo": "Casa no Bairro Ibituruna próxima ao Parque Sagarana",
+      "imagem": [
+        "imoveis/img/037/01.jpeg", "imoveis/img/037/02.jpeg", "imoveis/img/037/03.jpeg",
+        "imoveis/img/037/04.jpeg", "imoveis/img/037/05.jpeg", "imoveis/img/037/06.jpeg",
+        "imoveis/img/037/07.jpeg"
+      ],
+      "descricao": "Casa completa que reúne conforto, bem-estar e praticidade.",
+      "legenda": "• 3 quartos — 1 suíte + 2 semi-suítes\n• Sala ampla\n• Cozinha funcional\n• Área de lazer com piscina, churrasqueira e ducha\n\n💰 R$ 1.050.000",
+      "preco": "R$ 1.050.000",
+      "tipo": "casa",
+      "ativo": true,
+      "bairro": "Ibituruna"
+    },
+    {
+      "id": "038",
+      "titulo": "Apartamento amplo no Bairro São José",
+      "imagem": [
+        "imoveis/img/038/01.jpeg", "imoveis/img/038/02.jpeg", "imoveis/img/038/03.jpeg",
+        "imoveis/img/038/04.jpeg", "imoveis/img/038/05.jpeg", "imoveis/img/038/06.jpeg",
+        "imoveis/img/038/07.jpeg", "imoveis/img/038/08.jpeg", "imoveis/img/038/09.jpeg",
+        "imoveis/img/038/10.jpeg", "imoveis/img/038/11.jpeg", "imoveis/img/038/12.jpeg",
+        "imoveis/img/038/13.jpeg", "imoveis/img/038/14.jpeg", "imoveis/img/038/15.jpeg",
+        "imoveis/img/038/16.jpeg", "imoveis/img/038/17.jpeg"
+      ],
+      "descricao": "Apartamento com excelente custo-benefício e localização estratégica.",
+      "legenda": "• 4 quartos — 2 suítes\n• Banheiro social + banheiro de serviço\n• Cozinha espaçosa com marcenaria\n• Sala ampla\n\n💰 R$ 320.000",
+      "preco": "R$ 320.000",
+      "tipo": "apartamento",
+      "ativo": true,
+      "bairro": "São José"
+    },
+    {
+      "id": "039",
+      "titulo": "Apartamento novo no São José",
+      "imagem": [
+        "imoveis/img/039/01.jpeg", "imoveis/img/039/02.jpeg", "imoveis/img/039/03.jpeg",
+        "imoveis/img/039/04.jpeg", "imoveis/img/039/05.jpeg", "imoveis/img/039/06.jpeg",
+        "imoveis/img/039/07.jpeg", "imoveis/img/039/08.jpeg", "imoveis/img/039/09.jpeg"
+      ],
+      "descricao": "Localização central, com tudo o que você precisa por perto!",
+      "legenda": "• 2 quartos — 1 suíte\n• Sala aconchegante\n• Cozinha prática\n• Área de serviços\n• Banheiro social\n\n💰 R$ 380.000",
+      "preco": "R$ 380.000",
+      "tipo": "apartamento",
+      "ativo": true,
+      "bairro": "São José"
+    },
+    {
+      "id": "040",
+      "titulo": "Casa ampla no Ibituruna com área gourmet",
+      "imagem": [
+        "imoveis/img/040/01.jpeg", "imoveis/img/040/02.jpeg", "imoveis/img/040/03.jpeg",
+        "imoveis/img/040/04.jpeg", "imoveis/img/040/05.jpeg", "imoveis/img/040/06.jpeg",
+        "imoveis/img/040/07.jpeg", "imoveis/img/040/08.jpeg", "imoveis/img/040/09.jpeg",
+        "imoveis/img/040/10.jpeg", "imoveis/img/040/11.jpeg", "imoveis/img/040/12.jpeg",
+        "imoveis/img/040/13.jpeg", "imoveis/img/040/14.jpeg", "imoveis/img/040/15.jpeg",
+        "imoveis/img/040/16.jpeg"
+      ],
+      "descricao": "Casa perfeita para quem busca espaço e conforto com excelente custo-benefício.",
+      "legenda": "• 3 quartos — 1 suíte\n• Banheiro social e lavabo\n• Sala ampla e bem iluminada\n• Cozinha funcional\n• Área gourmet com churrasqueira\n\n💰 R$ 570.000",
+      "preco": "R$ 570.000",
+      "tipo": "casa",
+      "ativo": true,
+      "bairro": "Ibituruna"
+    },
+    {
+      "id": "041",
+      "titulo": "Casa moderna com fachada espelhada no Ibituruna",
+      "imagem": [
+        "imoveis/img/041/01.jpeg", "imoveis/img/041/02.jpeg", "imoveis/img/041/03.jpeg",
+        "imoveis/img/041/04.jpeg", "imoveis/img/041/05.jpeg", "imoveis/img/041/06.jpeg",
+        "imoveis/img/041/07.jpeg", "imoveis/img/041/08.jpeg", "imoveis/img/041/09.jpeg",
+        "imoveis/img/041/10.jpeg", "imoveis/img/041/11.jpeg", "imoveis/img/041/12.jpeg",
+        "imoveis/img/041/13.jpeg", "imoveis/img/041/14.jpeg", "imoveis/img/041/15.jpeg"
+      ],
+      "descricao": "Casa moderna com acabamento de alto padrão e localização privilegiada.",
+      "legenda": "• Fachada contemporânea com detalhe espelhado\n• Ambientes integrados e amplos\n• Excelente iluminação natural\n• Varanda com vidro temperado\n• Espaço ideal para receber\n\n💰 R$ 550.000",
+      "preco": "R$ 550.000",
+      "tipo": "casa",
+      "ativo": true,
+      "bairro": "Ibituruna"
+    },
+    {
+      "id": "042",
+      "titulo": "Casa à venda no bairro Edgar Pereira — 5 quartos",
+      "imagem": [
+        "imoveis/img/042/01.jpeg", "imoveis/img/042/02.jpeg", "imoveis/img/042/03.jpeg",
+        "imoveis/img/042/04.jpeg", "imoveis/img/042/05.jpeg", "imoveis/img/042/06.jpeg",
+        "imoveis/img/042/07.jpeg", "imoveis/img/042/08.jpeg", "imoveis/img/042/09.jpeg",
+        "imoveis/img/042/10.jpeg", "imoveis/img/042/11.jpeg", "imoveis/img/042/12.jpeg",
+        "imoveis/img/042/13.jpeg", "imoveis/img/042/14.jpeg", "imoveis/img/042/15.jpeg"
+      ],
+      "descricao": "Casa ampla com 270m² de área construída, acabamento premium e fachada em pele de vidro.",
+      "legenda": "• 5 quartos — 1 suíte com closet e varanda\n• 270m² de área construída\n• Terreno: 235m²\n• Sala integrada ao espaço gourmet\n• Cozinha com bancada em granito e mesa embutida\n• Garagem coberta para 2 carros\n• Porcelanato Portinari 1,50m x 1,50m\n• Aceita financiamento\n\n💰 R$ 950.000",
+      "preco": "R$ 950.000",
+      "tipo": "casa",
+      "ativo": true,
+      "bairro": "Edgar Pereira"
+    } 
   ]
   
