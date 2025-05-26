@@ -45,8 +45,8 @@
       "imoveis/img/004/01.webp","imoveis/img/004/02.webp","imoveis/img/004/03.webp","imoveis/img/004/04.webp","imoveis/img/004/05.webp","imoveis/img/004/06.webp","imoveis/img/004/07.webp","imoveis/img/004/08.webp","imoveis/img/004/09.webp","imoveis/img/004/10.webp","imoveis/img/004/11.webp"
     ],
     "descricao": "Casa em uma ótima localização no bairro Todos os Santos!",
-    "legenda": "✨ <b>Destaques do imóvel:</b>\n- Sala integrada à cozinha, criando um ambiente amplo e sofisticado\n- Cozinha com ilha e balcão de pedra, perfeita para os momentos culinários\n- Porta de vidro que conecta a cozinha à área de lazer\n- 3 quartos, sendo 1 suíte com closet\n- Área de churrasqueira completa para aproveitar com a família e amigos\n\n📍 Localização privilegiada no bairro Todos os Santos\n\n💰 Valor: R$ 950.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
-    "preco": "R$ 950.000",
+    "legenda": "✨ <b>Destaques do imóvel:</b>\n- Sala integrada à cozinha, criando um ambiente amplo e sofisticado\n- Cozinha com ilha e balcão de pedra, perfeita para os momentos culinários\n- Porta de vidro que conecta a cozinha à área de lazer\n- 3 quartos, sendo 1 suíte com closet\n- Área de churrasqueira completa para aproveitar com a família e amigos\n\n📍 Localização privilegiada no bairro Todos os Santos\n\n💰 Valor: R$ 850.000,00\n\nEntre em contato para mais informações e agende sua visita! 📲",
+    "preco": "R$ 850.000",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Todos os Santos"
@@ -443,7 +443,7 @@
       ],
       "descricao": "Opção ideal para morar perto de tudo!",
       "legenda": "• 2 quartos\n• Sala e cozinha espaçosa\n• Banheiro social\n• Garagem\n\nPróximo a faculdades, padarias, restaurantes e supermercados.",
-      "preco": "Sob consulta",
+      "preco": "A partir de R$ 285.000",
       "tipo": "apartamento",
       "ativo": true,
       "bairro": "Jardim Panorama"
