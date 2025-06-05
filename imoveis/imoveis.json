@@ -58,8 +58,8 @@
       "imoveis/img/005/01.webp","imoveis/img/005/02.webp","imoveis/img/005/03.webp","imoveis/img/005/04.webp","imoveis/img/005/05.webp","imoveis/img/005/06.webp","imoveis/img/005/07.webp","imoveis/img/005/08.webp","imoveis/img/005/09.webp","imoveis/img/005/10.webp","imoveis/img/005/11.webp","imoveis/img/005/12.webp","imoveis/img/005/13.webp"
     ],
     "descricao": "Ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.",
-    "legenda": "📐Lote 187,5 m2 sendo 160 m2 de Área construída (sem a piscina)\n\nPiscina: 17 m2 borda infinita, com prainha, hidromassagem, iluminação e aquecimento solar.\n- Garagem p/ 3 carros\n- Sala integrada c/ cozinha\n- 3 Quartos sendo 1 suíte c/ closet\n- 1 Banheiro social\n- Area gourmet c/ churrasqueira a gás Suggar\n- 1 Banheiro área gourmet\n\nObs: ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.\n\n💰Valor= R$ 850.000",
-    "preco": "R$ 850.000",
+    "legenda": "📐Lote 187,5 m2 sendo 160 m2 de Área construída (sem a piscina)\n\nPiscina: 17 m2 borda infinita, com prainha, hidromassagem, iluminação e aquecimento solar.\n- Garagem p/ 3 carros\n- Sala integrada c/ cozinha\n- 3 Quartos sendo 1 suíte c/ closet\n- 1 Banheiro social\n- Area gourmet c/ churrasqueira a gás Suggar\n- 1 Banheiro área gourmet\n\nObs: ar condicionado tubulado quartos, sala e área gourmet; cerca elétrica, portão eletrônico, alarme e câmeras; box temperado em banheiros; paisagismo.\n\n💰Valor= R$ 750.000",
+    "preco": "R$ 750.000",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Residencial Serrano"
@@ -76,19 +76,6 @@
     "tipo": "casa",
     "ativo": true,
     "bairro": "Jardim Primavera"
-  },
-  {
-    "id": "007",
-    "titulo": "Casa no bairro Planalto",
-    "imagem": [
-      "imoveis/img/007/01.jpeg","imoveis/img/007/02.jpeg","imoveis/img/007/03.jpeg","imoveis/img/007/04.jpeg","imoveis/img/007/05.jpeg","imoveis/img/007/06.jpeg","imoveis/img/007/07.jpeg","imoveis/img/007/08.jpeg","imoveis/img/007/09.jpeg","imoveis/img/007/10.jpeg","imoveis/img/007/11.jpeg","imoveis/img/007/12.jpeg","imoveis/img/007/13.jpeg"
-    ],
-    "descricao": "Com acabamento impecável de Alto Padrão",
-    "legenda": "Composta de:\n\n- 3 quartos, sendo 1 suíte\n- sala ampla para 2 ambientes\n- Cozinha ampla\n- Banheiro social\n- Área serviço coberta\n- Área gourmet com churrasqueira\n- caixinha de som ambiente no teto\n\n💰 Valor : R$ 720.000,00\n\nSeu imóvel é com a BGB IMÓVEIS, entre em contato conosco e agende seu horário.",
-    "preco": "R$ 720.000",
-    "tipo": "casa",
-    "ativo": true,
-    "bairro": "Planalto"
   },
   {
     "id": "008",
@@ -253,8 +240,8 @@
       "imoveis/img/020/01.jpeg","imoveis/img/020/02.jpeg","imoveis/img/020/03.jpeg", "imoveis/img/020/04.jpeg", "imoveis/img/020/05.jpeg","imoveis/img/020/06.jpeg","imoveis/img/020/07.jpeg","imoveis/img/020/08.jpeg","imoveis/img/020/09.jpeg"
     ],
     "descricao": "Área de 150,00 m2 | A dois quarteirões do Shopping Montes Claros",
-    "legenda": "- 3 suites\n- sala ampla\n- cozinha confortável\n- área de lazer com churrasqueira\n-piscina e lavabo.\n\nR$950.000,00",
-    "preco": "R$ 950.000",
+    "legenda": "- 3 suites\n- sala ampla\n- cozinha confortável\n- área de lazer com churrasqueira\n-piscina e lavabo.\n\nR$ 890.000,00",
+    "preco": "R$ 890.000",
     "tipo": "casa",
     "ativo": true,
     "bairro": "Ibituruna"
@@ -578,6 +565,65 @@
       "tipo": "casa",
       "ativo": true,
       "bairro": "Edgar Pereira"
-    } 
+    },
+    {
+  "id": "043",
+  "titulo": "Cobertura Porteira Fechada a 100m do Parque Sagarana",
+  "imagem": [
+    "imoveis/img/043/01.jpeg", "imoveis/img/043/02.jpeg", "imoveis/img/043/03.jpeg",
+    "imoveis/img/043/04.jpeg", "imoveis/img/043/05.jpeg", "imoveis/img/043/06.jpeg",
+    "imoveis/img/043/07.jpeg", "imoveis/img/043/08.jpeg", "imoveis/img/043/09.jpeg",
+    "imoveis/img/043/10.jpeg", "imoveis/img/043/11.jpeg", "imoveis/img/043/12.jpeg",
+    "imoveis/img/043/13.jpeg", "imoveis/img/043/14.jpeg", "imoveis/img/043/15.jpeg",
+    "imoveis/img/043/16.jpeg", "imoveis/img/043/17.jpeg", "imoveis/img/043/18.jpeg",
+    "imoveis/img/043/19.jpeg", "imoveis/img/043/20.jpeg", "imoveis/img/043/21.jpeg",
+    "imoveis/img/043/22.jpeg", "imoveis/img/043/23.jpeg", "imoveis/img/043/24.jpeg",
+    "imoveis/img/043/25.jpeg", "imoveis/img/043/26.jpeg", "imoveis/img/043/27.jpeg",
+    "imoveis/img/043/28.jpeg"
+  ],
+  "descricao": "Cobertura aconchegante e prática a apenas 100 metros do Parque Sagarana.",
+  "legenda": "• Porteira fechada — com todos os móveis e eletros\n• 2 quartos — 1 suíte\n• Banheiro social\n• Área gourmet completa com churrasqueira e fogão\n\n💰 R$ 700.000",
+  "preco": "R$ 700.000",
+  "tipo": "apartamento",
+  "ativo": true,
+  "bairro": "Parque Sagarana"
+},
+{
+  "id": "044",
+  "titulo": "Casa no Condomínio Pampulha & Tênis",
+  "imagem": [
+    "imoveis/img/044/01.jpeg", "imoveis/img/044/02.jpeg", "imoveis/img/044/03.jpeg",
+    "imoveis/img/044/04.jpeg", "imoveis/img/044/05.jpeg", "imoveis/img/044/06.jpeg",
+    "imoveis/img/044/07.jpeg", "imoveis/img/044/08.jpeg", "imoveis/img/044/09.jpeg",
+    "imoveis/img/044/10.jpeg", "imoveis/img/044/11.jpeg", "imoveis/img/044/12.jpeg",
+    "imoveis/img/044/13.jpeg", "imoveis/img/044/14.jpeg", "imoveis/img/044/15.jpeg",
+    "imoveis/img/044/16.jpeg", "imoveis/img/044/17.jpeg", "imoveis/img/044/18.jpeg"
+  ],
+  "descricao": "Casa incrível com área de lazer completa em condomínio fechado.",
+  "legenda": "• 3 suítes com armários\n• Cozinha com coifa e cooktop\n• Churrasqueira, espaço gourmet e piscina\n• Lustre na sala e acabamentos de alto padrão\n\n💰 R$ 1.290.000",
+  "preco": "R$ 1.290.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Condomínio Pampulha & Tênis"
+},
+{
+  "id": "045",
+  "titulo": "Casa completa no Condomínio Portal da Serra",
+  "imagem": [
+    "imoveis/img/045/01.jpeg", "imoveis/img/045/02.jpeg", "imoveis/img/045/03.jpeg",
+    "imoveis/img/045/04.jpeg", "imoveis/img/045/05.jpeg", "imoveis/img/045/06.jpeg",
+    "imoveis/img/045/07.jpeg", "imoveis/img/045/08.jpeg", "imoveis/img/045/09.jpeg",
+    "imoveis/img/045/10.jpeg", "imoveis/img/045/11.jpeg", "imoveis/img/045/12.jpeg",
+    "imoveis/img/045/13.jpeg", "imoveis/img/045/14.jpeg", "imoveis/img/045/15.jpeg",
+    "imoveis/img/045/16.jpeg", "imoveis/img/045/17.jpeg", "imoveis/img/045/18.jpeg",
+    "imoveis/img/045/19.jpeg", "imoveis/img/045/20.jpeg", "imoveis/img/045/21.jpeg"
+  ],
+  "descricao": "Casa diferenciada com lazer completo, mobiliada, no pé da Serra do Meio.",
+  "legenda": "• 5 suítes — sendo 1 no térreo\n• Área de lazer com choperia, freezer e Clima Brisa\n• Sala de cinema com projetor e sofás\n• Cozinha moderna, lavanderia e sala ampla\n• Venda com mobília completa\n\n💰 R$ 2.400.000",
+  "preco": "R$ 2.400.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Portal da Serra"
+}
   ]
   
