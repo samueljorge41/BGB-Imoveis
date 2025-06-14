@@ -624,6 +624,52 @@
   "tipo": "casa",
   "ativo": true,
   "bairro": "Portal da Serra"
+},
+{
+  "id": "046",
+  "titulo": "Casa moderna com pé-direito alto e área gourmet",
+  "imagem": [
+    "imoveis/img/046/01.jpeg", "imoveis/img/046/02.jpeg", "imoveis/img/046/03.jpeg",
+    "imoveis/img/046/04.jpeg", "imoveis/img/046/05.jpeg", "imoveis/img/046/06.jpeg",
+    "imoveis/img/046/07.jpeg"
+  ],
+  "descricao": "Casa com excelente acabamento, cozinha integrada e ótima localização.",
+  "legenda": "• 3 quartos — 1 suíte com closet\n• Banheiro social + suíte\n• Sala com pé-direito alto\n• Cozinha integrada com área gourmet e armários\n• Garagem para 2 carros\n• 120m² de área construída em lote de 180m²\n\n💰 R$ 620.000",
+  "preco": "R$ 620.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Não informado"
+},
+{
+  "id": "047",
+  "titulo": "Santorini Residence — Bairro Todos os Santos",
+  "imagem": [
+    "imoveis/img/047/01.jpeg", "imoveis/img/047/02.jpeg", "imoveis/img/047/03.jpeg",
+    "imoveis/img/047/04.jpeg", "imoveis/img/047/05.jpeg", "imoveis/img/047/06.jpeg",
+    "imoveis/img/047/07.jpeg", "imoveis/img/047/08.jpeg"
+  ],
+  "descricao": "Empreendimento moderno próximo às principais indústrias farmacêuticas.",
+  "legenda": "• Opções com 2 e 3 quartos\n• Sala, cozinha, banheiro social\n• Localização estratégica com comércio, escolas e acesso fácil\n\n💰 A partir de R$ 385.000",
+  "preco": "A partir de R$ 385.000",
+  "tipo": "apartamento",
+  "ativo": true,
+  "bairro": "Todos os Santos"
+},
+{
+  "id": "048",
+  "titulo": "Casa térrea com projeto de Robson Veloso",
+  "imagem": [
+    "imoveis/img/048/01.jpeg", "imoveis/img/048/02.jpeg", "imoveis/img/048/03.jpeg",
+    "imoveis/img/048/04.jpeg", "imoveis/img/048/05.jpeg", "imoveis/img/048/06.jpeg",
+    "imoveis/img/048/07.jpeg", "imoveis/img/048/08.jpeg", "imoveis/img/048/09.jpeg",
+    "imoveis/img/048/10.jpeg", "imoveis/img/048/11.jpeg", "imoveis/img/048/12.jpeg"
+  ],
+  "descricao": "Casa 100% térrea com projeto assinado, pensada para o bem-estar e funcionalidade.",
+  "legenda": "• 3 quartos — 1 suíte espaçosa\n• 2 lavabos\n• Área gourmet integrada\n• Garagem para 2 carros\n• Projeto assinado por Robson Veloso\n\n💰 Sob consulta",
+  "preco": "Sob consulta",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Não informado"
 }
   ]
   
