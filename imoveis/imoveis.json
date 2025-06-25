@@ -670,6 +670,225 @@
   "tipo": "casa",
   "ativo": true,
   "bairro": "Não informado"
+},
+{
+  "id": "049",
+  "titulo": "Casa com área gourmet no Residencial Sul",
+  "imagem": [
+    "imoveis/img/049/01.jpeg", "imoveis/img/049/02.jpeg", "imoveis/img/049/03.jpeg",
+    "imoveis/img/049/04.jpeg", "imoveis/img/049/05.jpeg", "imoveis/img/049/06.jpeg",
+    "imoveis/img/049/07.jpeg", "imoveis/img/049/08.jpeg", "imoveis/img/049/09.jpeg",
+    "imoveis/img/049/10.jpeg", "imoveis/img/049/11.jpeg", "imoveis/img/049/12.jpeg",
+    "imoveis/img/049/13.jpeg"
+  ],
+  "descricao": "Casa com projeto de iluminação e área gourmet com som embutido.",
+  "legenda": "• 3 quartos — 1 suíte com closet\n• Sala ampla, cozinha completa\n• Área gourmet com sistema de som\n• Garagem para 2 carros\n• Pré-disposição para ar nos quartos\n\n💰 R$ 430.000",
+  "preco": "R$ 430.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Residencial Sul"
+},
+{
+  "id": "050",
+  "titulo": "Casa moderna no Condomínio Villa Segura",
+  "imagem": [
+    "imoveis/img/050/01.jpeg", "imoveis/img/050/02.jpeg", "imoveis/img/050/03.jpeg",
+    "imoveis/img/050/04.jpeg", "imoveis/img/050/05.jpeg", "imoveis/img/050/06.jpeg",
+    "imoveis/img/050/07.jpeg"
+  ],
+  "descricao": "Casa em condomínio com segurança e lazer completo.",
+  "legenda": "• 3 quartos — 1 suíte master com closet\n• Sala ampla e integrada\n• Cozinha gourmet moderna\n• Projeto de iluminação + som embutido\n• Condomínio com piscina, salão de festas e mais\n\n💰 R$ 550.000",
+  "preco": "R$ 550.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Villa Segura"
+},
+{
+  "id": "051",
+  "titulo": "Casa à venda no Mirante do Sol",
+  "imagem": [
+    "imoveis/img/051/01.jpeg", "imoveis/img/051/02.jpeg", "imoveis/img/051/03.jpeg",
+    "imoveis/img/051/04.jpeg", "imoveis/img/051/05.jpeg", "imoveis/img/051/06.jpeg",
+    "imoveis/img/051/07.jpeg"
+  ],
+  "descricao": "Casa completa com área gourmet e garagem para 3 carros.",
+  "legenda": "• 3 quartos — 1 suíte\n• Sala ampla, cozinha funcional\n• Área gourmet com churrasqueira\n• Área de serviço separada\n• Lote: 190m² | Construção: 120m²\n\n💰 R$ 500.000",
+  "preco": "R$ 500.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Mirante do Sol"
+},
+{
+  "id": "052",
+  "titulo": "Casa moderna e completa no Mirante do Sol",
+  "imagem": [
+    "imoveis/img/052/01.jpeg", "imoveis/img/052/02.jpeg", "imoveis/img/052/03.jpeg",
+    "imoveis/img/052/04.jpeg", "imoveis/img/052/05.jpeg", "imoveis/img/052/06.jpeg",
+    "imoveis/img/052/07.jpeg", "imoveis/img/052/08.jpeg", "imoveis/img/052/09.jpeg"
+  ],
+  "descricao": "Casa moderna com fachada de vidro e acabamento em porcelanato.",
+  "legenda": "• 3 quartos — 1 suíte\n• Sala com pé-direito elevado\n• Cozinha com granito São Gabriel\n• Área gourmet, porcelanato, LED\n• Lote: 180m² | Construção: 125m²\n\n💰 R$ 590.000",
+  "preco": "R$ 590.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Mirante do Sol"
+},
+{
+  "id": "053",
+  "titulo": "Casa dos Sonhos no Reserva Real",
+  "imagem": [
+    "imoveis/img/053/01.jpeg", "imoveis/img/053/02.jpeg", "imoveis/img/053/03.jpeg",
+    "imoveis/img/053/04.jpeg", "imoveis/img/053/05.jpeg", "imoveis/img/053/06.jpeg",
+    "imoveis/img/053/07.jpeg", "imoveis/img/053/08.jpeg", "imoveis/img/053/09.jpeg",
+    "imoveis/img/053/10.jpeg", "imoveis/img/053/11.jpeg", "imoveis/img/053/12.jpeg",
+    "imoveis/img/053/13.jpeg", "imoveis/img/053/14.jpeg", "imoveis/img/053/15.jpeg"
+  ],
+  "descricao": "Casa imponente com projeto de lazer para jacuzzi e piscina.",
+  "legenda": "• 4 quartos — 1 suíte com closet e varanda\n• Sala de TV integrada à cozinha e jantar\n• Lazer com projeto para jacuzzi e piscina\n• Banheiro social em cada andar\n\n💰 R$ 870.000",
+  "preco": "R$ 870.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Reserva Real"
+},
+{
+  "id": "054",
+  "titulo": "Casa nova no Mirante do Sol — MCMV",
+  "imagem": [
+    "imoveis/img/054/01.jpeg", "imoveis/img/054/02.jpeg", "imoveis/img/054/03.jpeg",
+    "imoveis/img/054/04.jpeg", "imoveis/img/054/05.jpeg", "imoveis/img/054/06.jpeg",
+    "imoveis/img/054/07.jpeg", "imoveis/img/054/08.jpeg", "imoveis/img/054/09.jpeg",
+    "imoveis/img/054/10.jpeg"
+  ],
+  "descricao": "Casa com acabamento moderno e pronta para financiamento MCMV.",
+  "legenda": "• 3 quartos\n• 2 banheiros, pé direito elevado\n• Porcelanato, área gourmet\n• Fachada com pedras naturais, janelas pele de vidro\n• 63m² de construção no lote de 125m²\n\n💰 R$ 350.000",
+  "preco": "R$ 350.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Mirante do Sol"
+},
+{
+  "id": "055",
+  "titulo": "Casa com 3 quartos — Acabamento premium",
+  "imagem": [
+    "imoveis/img/055/01.jpeg", "imoveis/img/055/02.jpeg", "imoveis/img/055/03.jpeg",
+    "imoveis/img/055/04.jpeg", "imoveis/img/055/05.jpeg", "imoveis/img/055/06.jpeg",
+    "imoveis/img/055/07.jpeg", "imoveis/img/055/08.jpeg", "imoveis/img/055/09.jpeg",
+    "imoveis/img/055/10.jpeg", "imoveis/img/055/11.jpeg"
+  ],
+  "descricao": "Casa com 140m² construídos em lote de 200m² e acabamento premium.",
+  "legenda": "• 3 quartos — 1 suíte\n• Área construída: 140m²\n• Lote: 200m²\n\n💰 Valor sob consulta",
+  "preco": "Sob consulta",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Não informado"
+},
+{
+  "id": "056",
+  "titulo": "Casa no Condomínio Villa Segura — 2 pavimentos",
+  "imagem": [
+    "imoveis/img/056/01.jpeg", "imoveis/img/056/02.jpeg", "imoveis/img/056/03.jpeg",
+    "imoveis/img/056/04.jpeg", "imoveis/img/056/05.jpeg", "imoveis/img/056/06.jpeg",
+    "imoveis/img/056/07.jpeg", "imoveis/img/056/08.jpeg"
+  ],
+  "descricao": "Casa completa com churrasqueira, varanda e garagem para até 4 carros.",
+  "legenda": "• 3 quartos — 1 suíte com closet\n• 2 pavimentos com sala íntima\n• Cozinha e área gourmet com armários\n• Sala ampla, varanda, área de serviço\n• Terreno: 200m² | Área construída: 165m²\n\n💰 Sob consulta",
+  "preco": "Sob consulta",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Villa Segura"
+},
+{
+  "id": "057",
+  "titulo": "Apartamento na Zona Sul — 2 vagas",
+  "imagem": [
+    "imoveis/img/057/01.jpeg", "imoveis/img/057/02.jpeg", "imoveis/img/057/03.jpeg",
+    "imoveis/img/057/04.jpeg", "imoveis/img/057/05.jpeg", "imoveis/img/057/06.jpeg",
+    "imoveis/img/057/07.jpeg", "imoveis/img/057/08.jpeg", "imoveis/img/057/09.jpeg"
+  ],
+  "descricao": "Apartamento com ótima localização e estrutura completa.",
+  "legenda": "• 2 quartos\n• Sala ampla\n• Cozinha moderna\n• Banheiro social\n• 2 vagas de garagem\n\n💰 A partir de R$ 285.000",
+  "preco": "A partir de R$ 285.000",
+  "tipo": "apartamento",
+  "ativo": true,
+  "bairro": "Zona Sul"
+},
+{
+  "id": "058",
+  "titulo": "Casa nova no Bairro Independência",
+  "imagem": [
+    "imoveis/img/058/01.jpeg", "imoveis/img/058/02.jpeg", "imoveis/img/058/03.jpeg",
+    "imoveis/img/058/04.jpeg", "imoveis/img/058/05.jpeg", "imoveis/img/058/06.jpeg",
+    "imoveis/img/058/07.jpeg", "imoveis/img/058/08.jpeg", "imoveis/img/058/09.jpeg",
+    "imoveis/img/058/10.jpeg", "imoveis/img/058/11.jpeg"
+  ],
+  "descricao": "Casa moderna com porcelanato polido e gesso rebaixado.",
+  "legenda": "• 3 quartos\n• Sala para dois ambientes\n• Cozinha americana com balcão\n• Banheiro com porcelanato\n• Iluminação em LED + teto rebaixado\n• 52m² de construção em lote de 100m²\n\n💰 R$ 245.000 (documentação inclusa)",
+  "preco": "R$ 245.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Independência"
+},
+{
+  "id": "059",
+  "titulo": "Casa de Alto Padrão — Reserva Real",
+  "imagem": [
+    "imoveis/img/059/01.jpeg", "imoveis/img/059/02.jpeg", "imoveis/img/059/03.jpeg",
+    "imoveis/img/059/04.jpeg", "imoveis/img/059/05.jpeg", "imoveis/img/059/06.jpeg",
+    "imoveis/img/059/07.jpeg", "imoveis/img/059/08.jpeg", "imoveis/img/059/09.jpeg",
+    "imoveis/img/059/10.jpeg", "imoveis/img/059/11.jpeg", "imoveis/img/059/12.jpeg",
+    "imoveis/img/059/13.jpeg", "imoveis/img/059/14.jpeg"
+  ],
+  "descricao": "Casa moderna com 3 suítes, varanda e área gourmet em localização nobre.",
+  "legenda": "• 3 suítes — varanda em 2 quartos\n• Sala com porcelanato 1,20 x 1,20\n• Cozinha integrada, área gourmet coberta\n• Lavabo, lavanderia, garagem coberta\n• Lote: 202m² | Área construída: 174m²\n\n💰 R$ 850.000",
+  "preco": "R$ 850.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Reserva Real"
+},
+{
+  "id": "060",
+  "titulo": "Casa no Bairro Monte Carmelo — acabamento premium",
+  "imagem": [
+    "imoveis/img/060/01.jpeg", "imoveis/img/060/02.jpeg", "imoveis/img/060/03.jpeg",
+    "imoveis/img/060/04.jpeg", "imoveis/img/060/05.jpeg", "imoveis/img/060/06.jpeg",
+    "imoveis/img/060/07.jpeg", "imoveis/img/060/08.jpeg", "imoveis/img/060/09.jpeg"
+  ],
+  "descricao": "Casa com cozinha americana, porcelanato e teto rebaixado.",
+  "legenda": "• 2 quartos\n• Cozinha americana integrada\n• Sala ampla\n• Banheiro com acabamento em porcelanato\n• Lote: 100m² | Construção: 50m²\n\n💰 R$ 240.000",
+  "preco": "R$ 240.000",
+  "tipo": "casa",
+  "ativo": true,
+  "bairro": "Monte Carmelo"
+},
+{
+  "id": "061",
+  "titulo": "Edifício Ágape Duo — Cândida Câmara",
+  "imagem": [
+    "imoveis/img/061/01.jpeg", "imoveis/img/061/02.jpeg", "imoveis/img/061/03.jpeg",
+    "imoveis/img/061/04.jpeg", "imoveis/img/061/05.jpeg", "imoveis/img/061/06.jpeg"
+  ],
+  "descricao": "Apartamentos com área de lazer completa e ótima localização.",
+  "legenda": "• 2 quartos — 1 suíte\n• Sala arejada, cozinha funcional\n• Condomínio com piscina, academia e playground\n\n💰 R$ 450.000",
+  "preco": "R$ 450.000",
+  "tipo": "apartamento",
+  "ativo": true,
+  "bairro": "Cândida Câmara"
+},
+{
+  "id": "062",
+  "titulo": "Apartamento à venda — Bairro Cândida Câmara",
+  "imagem": [
+    "imoveis/img/062/01.jpeg", "imoveis/img/062/02.jpeg", "imoveis/img/062/03.jpeg",
+    "imoveis/img/062/04.jpeg", "imoveis/img/062/05.jpeg", "imoveis/img/062/06.jpeg",
+    "imoveis/img/062/07.jpeg", "imoveis/img/062/08.jpeg", "imoveis/img/062/09.jpeg",
+    "imoveis/img/062/10.jpeg"
+  ],
+  "descricao": "Apartamento com 1 ou 2 quartos, ótima localização e excelente custo-benefício.",
+  "legenda": "• Opções com 1 ou 2 quartos — 1 suíte nas maiores\n• Sala integrada, cozinha funcional\n• Área de serviço independente\n• Região valorizada próxima à BR e comércios\n\n💰 Sob consulta",
+  "preco": "Sob consulta",
+  "tipo": "apartamento",
+  "ativo": true,
+  "bairro": "Cândida Câmara"
 }
   ]
   
